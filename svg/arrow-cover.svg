@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    style="isolation:isolate" viewBox="0 0 100 100" width="100pt" height="100pt">
+    <defs>
+        <clipPath id="_clipPath_DToBNGl4Tk93tNUmkyVSgvoNjPr8buaP">
+            <rect width="100" height="100" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#_clipPath_DToBNGl4Tk93tNUmkyVSgvoNjPr8buaP)">
+        <path
+            d=" M 100 0 Q 94.258 -0.064 90 0 Q 40.391 2.522 20 20 C -6.143 48.108 0.661 101.32 0 110 C -41.619 8.916 -8.276 -34.407 100 0 Z "
+            fill="rgb(0,0,0, 0.4)" />
+    </g>
+</svg>

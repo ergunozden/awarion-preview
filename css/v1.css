@@ -1,0 +1,236 @@
+/* v1 redesign - shared animation + interaction systems */
+
+/* ---- sticky navbar ---- */
+#v1-nav {
+  background: #ffffff;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s ease;
+}
+#v1-nav .nav-links { color: #191919; }
+#v1-nav.nav-scrolled { box-shadow: 0 8px 24px rgba(2, 18, 41, 0.08); }
+#v1-nav.nav-hidden { transform: translateY(-100%); }
+#v1-nav .nav-logo-light { display: none; }
+/* navy variant: every page except the homepage.
+   Transparent over the navy body at the top; solid white once scrolled
+   (same sticky treatment as the homepage). */
+#v1-nav.nav-navy {
+  background: transparent;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s ease,
+    background-color 0.3s ease;
+}
+#v1-nav.nav-navy .nav-links { color: #ffffff; }
+#v1-nav.nav-navy .nav-logo-dark { display: none; }
+#v1-nav.nav-navy .nav-logo-light { display: block; }
+#v1-nav.nav-navy.nav-scrolled {
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(2, 18, 41, 0.08);
+}
+#v1-nav.nav-navy.nav-scrolled .nav-links { color: #191919; }
+#v1-nav.nav-navy.nav-scrolled .nav-logo-dark { display: block; }
+#v1-nav.nav-navy.nav-scrolled .nav-logo-light { display: none; }
+
+/* ---- mobile menu (below lg): burger toggles .nav-open on #v1-nav ---- */
+.burger-line {
+  width: 18px;
+  height: 2px;
+  border-radius: 1px;
+  background: currentColor;
+  transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.2s ease;
+}
+#nav-burger { color: #191919; }
+#v1-nav.nav-navy #nav-burger { color: #ffffff; }
+#v1-nav.nav-navy.nav-scrolled #nav-burger,
+#v1-nav.nav-open #nav-burger { color: #191919; }
+#v1-nav .nav-menu {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  background: #ffffff;
+  border-radius: 0 0 16px 16px;
+  transition: max-height 0.35s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.25s ease;
+}
+#v1-nav.nav-open { background: #ffffff; }
+#v1-nav.nav-open .nav-menu {
+  max-height: 560px;
+  opacity: 1;
+  box-shadow: 0 24px 48px rgba(2, 18, 41, 0.12);
+}
+#v1-nav.nav-navy.nav-open .nav-logo-dark { display: block; }
+#v1-nav.nav-navy.nav-open .nav-logo-light { display: none; }
+#v1-nav.nav-open .burger-line:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+#v1-nav.nav-open .burger-line:nth-child(2) { opacity: 0; }
+#v1-nav.nav-open .burger-line:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+/* ---- section eyebrow tab: left spacer puts the tab on the shared content line ---- */
+.tab-spacer-left { width: 24px; }
+@media (min-width: 1024px) {
+  .tab-spacer-left { width: calc(max((100% - 1720px) / 2, 0px) + 80px); }
+}
+
+/* ---- solutions dropdown open animation ---- */
+.nav-dd .dd-wrap {
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.22s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.22s cubic-bezier(0.22, 1, 0.36, 1),
+    visibility 0s linear 0.22s;
+}
+.nav-dd .dd-panel {
+  transform: scale(0.97);
+  transform-origin: top left;
+  transition: transform 0.22s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.nav-dd:hover .dd-wrap,
+.nav-dd:focus-within .dd-wrap {
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0s;
+}
+.nav-dd:hover .dd-panel,
+.nav-dd:focus-within .dd-panel { transform: scale(1); }
+
+/* ---- main CTA: text slide-swap + lift ---- */
+.btn-cta {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+    background-color 0.35s ease;
+}
+.btn-cta .cta-label { display: block; position: relative; overflow: hidden; }
+.btn-cta .cta-label > span {
+  display: block;
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.btn-cta .cta-label > span:last-child {
+  position: absolute;
+  inset: 0;
+  transform: translateY(130%);
+}
+.btn-cta:hover {
+  transform: translateY(-2px);
+  background-color: #f3b93a;
+  box-shadow: 0 10px 24px rgba(255, 201, 67, 0.35);
+}
+.btn-cta:hover .cta-label > span:first-child { transform: translateY(-130%); }
+.btn-cta:hover .cta-label > span:last-child { transform: translateY(0); }
+
+.btn-cta.btn-cta--dark:hover {
+  background-color: #2b2b2b;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+}
+
+/* subtle secondary hover (Case Studies) */
+.btn-subtle {
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.3s ease;
+}
+.btn-subtle:hover {
+  transform: translateY(-1px);
+  background-color: rgba(255, 255, 255, 0.42);
+}
+
+/* ---- infinite tickers ---- */
+.ticker-mask {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+}
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll 42s linear infinite;
+}
+.ticker-track--ads { animation-duration: 70s; }
+@keyframes ticker-scroll {
+  to { transform: translateX(-50%); }
+}
+/* JS engine takes over (auto-scroll + drag) */
+.ticker-track.ticker-js {
+  animation: none;
+  cursor: grab;
+  touch-action: pan-y;
+}
+.ticker-track.ticker-js, .ticker-track.ticker-js * {
+  user-select: none;
+  -webkit-user-select: none;
+}
+.ticker-track.ticker-dragging { cursor: grabbing; }
+.ticker-track img {
+  pointer-events: none;
+  -webkit-user-drag: none;
+}
+
+/* ---- blog pages only need this: Ghost's built screen.css colors bare
+   `a` and `h1-h6` elements dark. Restore the INTENDED inheritance for nav
+   and footer links that carry no color utility of their own; anything with
+   its own color class (e.g. .btn-cta) is untouched. Renders identically on
+   non-blog pages, where these links already inherit these exact colors. ---- */
+#v1-nav .nav-links a:not(.btn-cta) { color: inherit; }
+#v1-footer a:not(.btn-cta) { color: inherit; }
+
+/* ---- blog article body: CONTENT images (Ghost renders them inside
+   figure/.kg-image) fill the column and are never clickable. Scoped so UI
+   icons living in the same column (e.g. the subscribe arrow) are untouched. ---- */
+.custom-content figure img,
+.custom-content img.kg-image { width: 100%; height: auto; border-radius: 12px; }
+.custom-content figure a, .custom-content figure img,
+.custom-content .kg-image-card a { pointer-events: none; cursor: default; }
+
+/* ---- content hub tag rail: hidden scrollbar, soft edge fade, drag-to-scroll ---- */
+.tag-rail {
+  overflow-x: auto;
+  scrollbar-width: none;
+  cursor: grab;
+  /* fades appear only on the side that has hidden content (JS toggles) */
+  -webkit-mask-image: linear-gradient(to right, black, black);
+  mask-image: linear-gradient(to right, black, black);
+}
+.tag-rail.fade-right {
+  -webkit-mask-image: linear-gradient(to right, black, black calc(100% - 32px), transparent);
+  mask-image: linear-gradient(to right, black, black calc(100% - 32px), transparent);
+}
+.tag-rail.fade-left {
+  -webkit-mask-image: linear-gradient(to right, transparent, black 32px, black);
+  mask-image: linear-gradient(to right, transparent, black 32px, black);
+}
+.tag-rail.fade-left.fade-right {
+  -webkit-mask-image: linear-gradient(to right, transparent, black 32px, black calc(100% - 32px), transparent);
+  mask-image: linear-gradient(to right, transparent, black 32px, black calc(100% - 32px), transparent);
+}
+.tag-rail::-webkit-scrollbar { display: none; }
+.tag-rail, .tag-rail * {
+  user-select: none;
+  -webkit-user-select: none;
+}
+.tag-rail.dragging { cursor: grabbing; }
+.tag-rail.dragging * { pointer-events: none; }
+
+/* ---- HTML ad creatives (941x1672 canvas scaled into the 351x607 screen) ---- */
+.creative-frame {
+  width: 941px;
+  height: 1672px;
+  transform: scale(0.37301);
+  transform-origin: top left;
+  border: 0;
+  pointer-events: none;
+}
+
+/* ---- real-time data PoC: live indicator ---- */
+.rt-live-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #16a34a;
+  animation: rt-pulse 2s ease-in-out infinite;
+}
+@keyframes rt-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(22, 163, 74, 0.45); }
+  50% { box-shadow: 0 0 0 5px rgba(22, 163, 74, 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track { animation: none; }
+  #v1-nav, .btn-cta, .btn-subtle, .nav-dd .dd-wrap, .nav-dd .dd-panel { transition: none; }
+  .rt-live-dot { animation: none; }
+}

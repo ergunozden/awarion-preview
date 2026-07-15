@@ -1,0 +1,5222 @@
+[
+  {
+    "name": "Levent Çamlık Caddesi Digital Billboard 3K-MD-6 (283) (720x432) (5:3)",
+    "id": 2978,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2978/1732805162988-LEVENT CAMİİ ARKASI, GARAJ KEBAP YANI.jpg",
+    "category": "Billboards",
+    "lat": 41.0792,
+    "lng": 29.0151,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Akatlar Çilekli Digital Billboard 3K-MD-5 (282) (720x432) (5:3)",
+    "id": 2971,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2971/1732783843059-ÇİLEKLİ BJK KOLEJİ ÖNÜ – LUKOİL GENEL MERKEZİ KARŞISI.jpg",
+    "category": "Billboards",
+    "lat": 41.0879,
+    "lng": 29.0201,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Etiler Akmerkez Mevkii Digital Billboard 3K-MD-4 (281) (720x432) (5:3)",
+    "id": 2972,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2972/1732783892802-NİSPETİYE CADDESİ - ETİLER ANADOLU LİSESİ YANI – BEBEK - ARNAVUTKÖY YÖNÜ.jpg",
+    "category": "Billboards",
+    "lat": 41.0772,
+    "lng": 29.0291,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Etiler Bebek Yokuşu Digital Billboard 3K-MD-7 (284) (720x432) (5:3)",
+    "id": 2974,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2974/1732783959652-NİSPETİYE BEBEK YÖNÜ – İNŞİRAH YOKUŞU.jpg",
+    "category": "Billboards",
+    "lat": 41.0777327,
+    "lng": 29.0379082,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Levazım Digital Billboard 3K-MD-1 (268) (840x504) (5:3)",
+    "id": 2975,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2975/1732805518279-ZORLU CENTER – ÇİFTÇİLER TOWER YANI.jpg",
+    "category": "Billboards",
+    "lat": 41.0681,
+    "lng": 29.016,
+    "resolution": {
+      "width": 840,
+      "height": 504
+    }
+  },
+  {
+    "name": "Levent Sümbül Sokak Digital Billboard 3K-MD-9 (286) (720x432) (5:3)",
+    "id": 2976,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2976/1732805551341-LEVENT ÇARŞI CADDESİ – LEVENT CAMİ YANI.jpg",
+    "category": "Billboards",
+    "lat": 41.0789,
+    "lng": 29.0173,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Levent Çarşı Digital Billboard 3K-MD-10 (287) (720x432) (5:3)",
+    "id": 2977,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2977/1732805585824-LEVENT ÇARŞI.jpg",
+    "category": "Billboards",
+    "lat": 41.0759,
+    "lng": 29.0172,
+    "resolution": {
+      "width": 840,
+      "height": 504
+    }
+  },
+  {
+    "name": "Etiler - Turizm Otel - 3K (279) (720x432) (5:3)",
+    "id": 2980,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2980/1732805474720-ŞİŞLİ TERRAKİ NİSPETİYE YÖNÜ – ETİLER TURİZM OKUL ARKASI.jpg",
+    "category": "Billboards",
+    "lat": 41.0792,
+    "lng": 29.0227,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Ortaköy Digital Billboard 3K-MD-8 (285) (720x432) (5:3)",
+    "id": 2979,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2979/1732805610500-ORTAKÖY ULUS YÖNÜ – ZORLU CENTER İSTİKAMETİ.jpg",
+    "category": "Billboards",
+    "lat": 41.0571,
+    "lng": 29.0233,
+    "resolution": {
+      "width": 720,
+      "height": 432
+    }
+  },
+  {
+    "name": "Kuaför TV - Sport'S Life Zeytinburnu Istanbul (244) (1024x768) (4:3)",
+    "id": 2775,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2775/1729170413602-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9906,
+    "lng": 28.8961,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Birber By Şeref Duran Eyüpsultan Istanbul (128) (1024x768) (4:3)",
+    "id": 2879,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2879/1729168070985-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.1798,
+    "lng": 28.8833,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Bk Saç Tasarim Çekmeköy Istanbul (129) (1024x768) (4:3)",
+    "id": 2878,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2878/1729168093571-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0359,
+    "lng": 29.2627,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - By Ferhat Korkmaz Kuaför Salonu Ataşehir Istanbul (130) (1024x768) (4:3)",
+    "id": 2877,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2877/1727360578760-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 40.9955,
+    "lng": 29.107,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Coiffer Yildirim Beylikdüzü Istanbul (131) (1024x768) (4:3)",
+    "id": 2876,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2876/1729168116790-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.991,
+    "lng": 28.6498,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Country Kuaför Eyüpsultan Istanbul (134) (1024x768) (4:3)",
+    "id": 2875,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2875/1729168139687-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.1872,
+    "lng": 28.883,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Derk Kuaför Kemal (Ortaköy) Beşiktaş Istanbul (135) (1024x768) (4:3)",
+    "id": 2874,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2874/1729168161937-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0476,
+    "lng": 28.9814,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Dias Coiffeur (Bahçeşehir) Başakşehir Istanbul (136) (1024x768) (4:3)",
+    "id": 2873,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2873/1729168183281-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0644,
+    "lng": 28.6898,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Different Hair (Levent Metrocity - Bayan) Şişli Istanbul (137) (1024x768) (4:3)",
+    "id": 2872,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2872/1727360180785-WhatsApp Image 2024-09-25 at 10.43.12 (2).jpeg",
+    "category": "Salons",
+    "lat": 41.075,
+    "lng": 29.0204,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Different Hair (Levent) Beşiktaş Istanbul (138) (1024x768) (4:3)",
+    "id": 2871,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2871/1727360558575-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.075,
+    "lng": 29.0204,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Doğan Taran Kuaför (Bayan-Erkek) Ümraniye Istanbul (139) (1024x768) (4:3)",
+    "id": 2870,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2870/1729168216033-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0309,
+    "lng": 29.1518,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salih Kuaför Kadıköy Istanbul (221) (1024x768) (4:3)",
+    "id": 2797,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2797/1724944445111-Kuafor-TV-Ornek.jpg",
+    "category": "Salons",
+    "lat": 40.9582,
+    "lng": 29.1016,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Saç Tasarim Ferdi Bakirköy Istanbul (220) (1024x768) (4:3)",
+    "id": 2798,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2798/1729169758861-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9813,
+    "lng": 28.8695,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Sabanci Ünv. (Era Kuaför-Tuzla) Tuzla Istanbul (219) (1024x768) (4:3)",
+    "id": 2799,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2799/1729169717789-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.8982,
+    "lng": 29.3599,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Paris Kuaför (Kadıköy) Kadıköy Istanbul (215) (1024x768) (4:3)",
+    "id": 2803,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2803/1729169697887-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9704,
+    "lng": 29.0957,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Özcan Tekcan Kuaför Beşiktaş Istanbul (214) (1024x768) (4:3)",
+    "id": 2804,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2804/1729169668098-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0776,
+    "lng": 29.0257,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Orhan Soylu (Bosphorus) Küçükçekmece Istanbul (213) (1024x768) (4:3)",
+    "id": 2805,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2805/1729169641993-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0275,
+    "lng": 28.7723,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Orhan Açikgöz Tarabya (Unisex) Sariyer Istanbul (211) (1024x768) (4:3)",
+    "id": 2806,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2806/1724944479278-kuafor-3.jpg",
+    "category": "Salons",
+    "lat": 41.1309,
+    "lng": 29.042,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Onur Kuaför (Maslak) Sariyer Istanbul (210) (1024x768) (4:3)",
+    "id": 2807,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2807/1724944382311-Kuafor-TV-Ornek.jpg",
+    "category": "Salons",
+    "lat": 41.1122,
+    "lng": 29.02,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Okumuşlar Kuaför Saç Kaynak Merkezi Şişli Istanbul (208) (1024x768) (4:3)",
+    "id": 2809,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2809/1729169613503-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0595,
+    "lng": 28.9924,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Doğan Tarhan Samandira Kartal Istanbul (140) (1024x768) (4:3)",
+    "id": 2869,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2869/1729168237754-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9658,
+    "lng": 29.2124,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Nb Nuri &Birgül Kuaför Kadıköy Istanbul (207) (1024x768) (4:3)",
+    "id": 2810,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2810/1729169555225-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9819,
+    "lng": 29.0576,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - My Salon Finansbank Genel Müdürlük Şişli Istanbul (204) (1024x768) (4:3)",
+    "id": 2812,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2812/1729169533615-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0831,
+    "lng": 29.0084,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Muzo Ataköy Atrium Avm Bakirköy Istanbul (202) (1024x768) (4:3)",
+    "id": 2813,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2813/1729169512607-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9885,
+    "lng": 28.8457,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Muhittin Fidan Kuaför Ve Güzellik Hizmetleri Şişli Istanbul (201) (1024x768) (4:3)",
+    "id": 2814,
+    "category": "Salons",
+    "lat": 41.0637,
+    "lng": 28.6838,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mosino (Büyükçekmece Alkent 2000) Büyükçekmece Istanbul (200) (1024x768) (4:3)",
+    "id": 2815,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2815/1729169486726-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0775,
+    "lng": 28.6232,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mos Kuaför (Nişantaşi) (Erkek) Şişli Istanbul (199) (1024x768) (4:3)",
+    "id": 2816,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2816/1729168925349-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0514,
+    "lng": 28.9939,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mos Kuaför (Nişantaşi) (Bayan) Şişli Istanbul (198) (1024x768) (4:3)",
+    "id": 2817,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2817/1727360397684-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.0514,
+    "lng": 28.9939,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mos Ataşehir (Bayan) Ataşehir Istanbul (197) (1024x768) (4:3)",
+    "id": 2818,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2818/1729168904889-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9928,
+    "lng": 29.1201,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Doğan Tarhan Simpaş Ümraniye Istanbul (141) (1024x768) (4:3)",
+    "id": 2868,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2868/1729168257852-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0309,
+    "lng": 29.1518,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Dr. Menije Estetik Merkezi (Galleria Avm) Bakirköy Istanbul (142) (1024x768) (4:3)",
+    "id": 2867,
+    "category": "Salons",
+    "lat": 40.9745,
+    "lng": 28.8704,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Emre Dilekçi Saç Tasarim Kaynak Merkezi Beylikdüzü Istanbul (143) (1024x768) (4:3)",
+    "id": 2866,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2866/1729168278450-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0052,
+    "lng": 28.6265,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Erol Kaya Saç Tasarim Bakirköy Istanbul (145) (1024x768) (4:3)",
+    "id": 2865,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2865/1729168298948-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9927,
+    "lng": 28.8735,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salsa Bayan Kuaförü Pendik Istanbul (239) (1024x768) (4:3)",
+    "id": 2781,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2781/1729170235939-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9141,
+    "lng": 29.2828,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - San Köşk Kuaför (Acibadem) Üsküdar Istanbul (240) (1024x768) (4:3)",
+    "id": 2780,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2780/1729170337765-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0242,
+    "lng": 29.0872,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mos (Erenköy) Kadıköy Istanbul (195) (1024x768) (4:3)",
+    "id": 2820,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2820/1729168882847-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9686,
+    "lng": 29.0714,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mila Kuaför Beşiktaş Istanbul (193) (1024x768) (4:3)",
+    "id": 2822,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2822/1727360419357-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.1063,
+    "lng": 28.8603,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Melih Plus (Suadiye) Kadıköy Istanbul (192) (1024x768) (4:3)",
+    "id": 2823,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2823/1724944360948-Kuafor-TV-Ornek.jpg",
+    "category": "Salons",
+    "lat": 40.9569,
+    "lng": 29.0873,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Ersan Kuaför Şişli Istanbul (146) (1024x768) (4:3)",
+    "id": 2864,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2864/1729168323777-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0657,
+    "lng": 28.9952,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı Özdilek Avm Şişli Istanbul (191) (1024x768) (4:3)",
+    "id": 2824,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2824/1727360436478-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.0777,
+    "lng": 29.0109,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Watergarden Avm) Ataşehir Istanbul (189) (1024x768) (4:3)",
+    "id": 2825,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2825/1727360459661-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 40.9977,
+    "lng": 29.0996,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Ümraniye Orya Park) Ümraniye Istanbul (188) (1024x768) (4:3)",
+    "id": 2826,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2826/1729168863114-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0323,
+    "lng": 29.1101,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Trump) Şişli Istanbul (187) (1024x768) (4:3)",
+    "id": 2827,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2827/1729168843615-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0689,
+    "lng": 28.9923,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Nişantaşi) Şişli Istanbul (186) (1024x768) (4:3)",
+    "id": 2828,
+    "category": "Salons",
+    "lat": 41.049,
+    "lng": 28.9919,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Maslak 1453 - Unisex) Sariyer Istanbul (185) (1024x768) (4:3)",
+    "id": 2829,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2829/1724944517682-kuafor-3.jpg",
+    "category": "Salons",
+    "lat": 41.1167,
+    "lng": 29.0093,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Çekmeköy) Çekmeköy Istanbul (181) (1024x768) (4:3)",
+    "id": 2832,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2832/1729168822749-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0365,
+    "lng": 29.1576,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Tatlı (Bahçeşehir) Başakşehir Istanbul (180) (1024x768) (4:3)",
+    "id": 2833,
+    "category": "Salons",
+    "lat": 41.0724,
+    "lng": 28.6843,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Sedat Dal Kuaför (Göztepe) Kadıköy Istanbul (241) (1024x768) (4:3)",
+    "id": 2779,
+    "category": "Salons",
+    "lat": 40.9823,
+    "lng": 29.0651,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Şenol Zeytinoğlu (Bakirköy Capacity) Bakirköy Istanbul (242) (1024x768) (4:3)",
+    "id": 2778,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2778/1729170362287-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9779,
+    "lng": 28.8713,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Serkan Öner Kuaför Beykoz Istanbul (123) (1024x768) (4:3)",
+    "id": 2777,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2777/1729170391612-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.1222,
+    "lng": 29.1351,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Es Fön Kuaför Beşiktaş Istanbul (147) (1024x768) (4:3)",
+    "id": 2863,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2863/1729168349163-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0958,
+    "lng": 28.7935,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Taner Yilmaz Saç Tasarim Kadıköy Istanbul (246) (1024x768) (4:3)",
+    "id": 2773,
+    "category": "Salons",
+    "lat": 40.9822,
+    "lng": 29.0704,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Trend Kuaför Fatih Istanbul (247) (1024x768) (4:3)",
+    "id": 2772,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2772/1729170444848-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0047,
+    "lng": 28.9311,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Figaro Kuaför Ümraniye Istanbul (150) (1024x768) (4:3)",
+    "id": 2861,
+    "category": "Salons",
+    "lat": 41.0341,
+    "lng": 29.1126,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Yalı Kuaför Beşiktaş Istanbul (251) (1024x768) (4:3)",
+    "id": 2768,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2768/1727360338740-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.1172,
+    "lng": 29.0629,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Saç Tasarim Bakirköy Istanbul (179) (1024x768) (4:3)",
+    "id": 2834,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2834/1729168802476-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9849,
+    "lng": 28.8488,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Mehmet Dal Kuaför Salon Kadıköy Istanbul (178) (1024x768) (4:3)",
+    "id": 2835,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2835/1729168780978-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9775,
+    "lng": 29.0939,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Md Kuaför (Antalya Lara) Muratpaşa Antalya (177) (1024x768) (4:3)",
+    "id": 2836,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2836/1729168754717-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 36.8657,
+    "lng": 30.7282,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - M&S Kuaför Şişli Istanbul (174) (1024x768) (4:3)",
+    "id": 2837,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2837/1729168582924-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9334,
+    "lng": 29.132,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Locca Başakşehir Başakşehir Istanbul (172) (1024x768) (4:3)",
+    "id": 2839,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2839/1729168562178-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0833,
+    "lng": 28.8167,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Loca Hair Hair Designer (Bayan) Küçükçekmece Istanbul (171) (1024x768) (4:3)",
+    "id": 2840,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2840/1729168541895-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0212,
+    "lng": 28.7781,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Studio Ulus Beşiktaş Istanbul (168) (1024x768) (4:3)",
+    "id": 2843,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2843/1729168521810-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0717,
+    "lng": 29.0267,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Şeref Kadıköy Istanbul (167) (1024x768) (4:3)",
+    "id": 2844,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2844/1729168502533-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9819,
+    "lng": 29.0576,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Nazmi Hiz Beauty Saloon Kadıköy Istanbul (166) (1024x768) (4:3)",
+    "id": 2845,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2845/1724944336671-Kuafor-TV-Ornek.jpg",
+    "category": "Salons",
+    "lat": 40.9629,
+    "lng": 29.0851,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Mustafa & Semih Kadıköy Istanbul (165) (1024x768) (4:3)",
+    "id": 2846,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2846/1729168481801-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9971,
+    "lng": 29.0362,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Ferit Sariyer Istanbul (164) (1024x768) (4:3)",
+    "id": 2847,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2847/1727360476313-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.1224,
+    "lng": 29.0699,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Elit Güzellik Merkezi Beşiktaş Istanbul (163) (1024x768) (4:3)",
+    "id": 2848,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2848/1727360511982-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.0462,
+    "lng": 29.002,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Eli Üsküdar Istanbul (162) (1024x768) (4:3)",
+    "id": 2849,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2849/1729168459212-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.025,
+    "lng": 29.0349,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kuaför Ali Gündoğdu&Gürol Kadıköy Istanbul (160) (1024x768) (4:3)",
+    "id": 2850,
+    "category": "Salons",
+    "lat": 40.9707,
+    "lng": 29.0727,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Kaan Yıldırım Kuaför Ümraniye Istanbul (176) (1024x768) (4:3)",
+    "id": 2851,
+    "category": "Salons",
+    "lat": 41.0207,
+    "lng": 29.1171,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Saloons By Sinan Kurtdede Kadıköy Istanbul (238) (1024x768) (4:3)",
+    "id": 2782,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2782/1729170213538-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9819,
+    "lng": 29.0576,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Final Kuaför Ataşehir Istanbul (152) (1024x768) (4:3)",
+    "id": 2859,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2859/1727360532906-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.0016,
+    "lng": 29.1286,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Formen Kuaför (Erkek) Bakirköy Istanbul (153) (1024x768) (4:3)",
+    "id": 2858,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2858/1729168369620-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9887,
+    "lng": 28.8458,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Habip Topal Kuaför Beşiktaş Istanbul (155) (1024x768) (4:3)",
+    "id": 2856,
+    "category": "Salons",
+    "lat": 41.0795,
+    "lng": 29.0448,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - İbrahim Kirali Saç Tasarim Zeytinburnu Istanbul (156) (1024x768) (4:3)",
+    "id": 2855,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2855/1729168392624-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.986,
+    "lng": 28.8973,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - İmaj Kuaför Kadıköy Istanbul (157) (1024x768) (4:3)",
+    "id": 2854,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2854/1729168414019-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9701,
+    "lng": 29.0726,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - İstanbul Kuaför (K.Maraş) Dulkadiroğlu Kahramanmaraş (158) (1024x768) (4:3)",
+    "id": 2853,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2853/1729168437698-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 37.5777,
+    "lng": 36.9322,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Saloon Beys (Tuzla) Tuzla Istanbul (237) (1024x768) (4:3)",
+    "id": 2783,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2783/1729170192262-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.8366,
+    "lng": 29.2964,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Yiğit Ateş Maltepe Istanbul (236) (1024x768) (4:3)",
+    "id": 2784,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2784/1727360359411-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 40.9189,
+    "lng": 29.1333,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Sahne Kadıköy Istanbul (233) (1024x768) (4:3)",
+    "id": 2787,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2787/1729170169795-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9769,
+    "lng": 29.0767,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Locca Küçükçekmece Istanbul (232) (1024x768) (4:3)",
+    "id": 2788,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2788/1729170150024-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0239,
+    "lng": 28.6865,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Kavala Beylikdüzü Istanbul (231) (1024x768) (4:3)",
+    "id": 2789,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2789/1729170127393-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0055551,
+    "lng": 28.6264903,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon İst Halkali (Bayan) Küçükçekmece Istanbul (230) (1024x768) (4:3)",
+    "id": 2790,
+    "category": "Salons",
+    "lat": 41.0189,
+    "lng": 28.7679,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Friends (Nişantaşi) Şişli Istanbul (228) (1024x768) (4:3)",
+    "id": 2792,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2792/1727360381008-WhatsApp Image 2024-09-25 at 10.43.14.jpeg",
+    "category": "Salons",
+    "lat": 41.0495,
+    "lng": 28.992,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Esse (Bahçeşehir) Başakşehir Istanbul (227) (1024x768) (4:3)",
+    "id": 2793,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2793/1729170100921-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0729,
+    "lng": 28.6821,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Diva (Bakirköy Carousel) (Bayan) Bakirköy Istanbul (225) (1024x768) (4:3)",
+    "id": 2794,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2794/1729170077563-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9771,
+    "lng": 28.8737,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Değişim Bahçelievler Istanbul (224) (1024x768) (4:3)",
+    "id": 2795,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2795/1729169780405-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0023,
+    "lng": 28.8739,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Salon Buss Üsküdar Istanbul (223) (1024x768) (4:3)",
+    "id": 2796,
+    "category": "Salons",
+    "lat": 41.0322,
+    "lng": 29.0319,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - 8 Renk Saç Tasarim Kadıköy Istanbul (116) (1024x768) (4:3)",
+    "id": 2888,
+    "category": "Salons",
+    "lat": 40.978,
+    "lng": 29.08,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Ali Ayyildiz Hair Designer Bakirköy Istanbul (120) (1024x768) (4:3)",
+    "id": 2886,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2886/1729167976185-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9856,
+    "lng": 28.8718,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Ali Gür Kuaför Göktürk (Bayan) Eyüpsultan Istanbul (121) (1024x768) (4:3)",
+    "id": 2885,
+    "category": "Salons",
+    "lat": 41.1804,
+    "lng": 28.8836,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Altineller Kuaför Kadıköy Istanbul (122) (1024x768) (4:3)",
+    "id": 2884,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2884/1729167999329-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.0097,
+    "lng": 29.0509,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Avangarde Grena (Göktürk) Eyüpsultan Istanbul (124) (1024x768) (4:3)",
+    "id": 2883,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2883/1729168022010-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 41.1801,
+    "lng": 28.8911,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kuaför TV - Aytaç Kuaför (Kozyataği) Kadıköy Istanbul (125) (1024x768) (4:3)",
+    "id": 2882,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2882/1729168044668-kuaför.jpeg",
+    "category": "Salons",
+    "lat": 40.9717,
+    "lng": 29.0969,
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "name": "Kınalıada İskele",
+    "id": 2767,
+    "category": "Ferry",
+    "lat": 40.9107,
+    "lng": 29.0561,
+    "resolution": {
+      "width": 192,
+      "height": 384
+    }
+  },
+  {
+    "name": "Büyükada İskele Gelen Yolcu",
+    "id": 2766,
+    "category": "Ferry",
+    "lat": 40.8748,
+    "lng": 29.1281,
+    "resolution": {
+      "width": 192,
+      "height": 384
+    }
+  },
+  {
+    "name": "Büyükada İskele Giden Yolcu",
+    "id": 2765,
+    "category": "Ferry",
+    "lat": 40.8748,
+    "lng": 29.1282,
+    "resolution": {
+      "width": 192,
+      "height": 384
+    }
+  },
+  {
+    "name": "Marmaris",
+    "id": 2758,
+    "category": "Billboards",
+    "lat": 36.851383,
+    "lng": 28.273248,
+    "resolution": {
+      "width": 1536,
+      "height": 1152
+    }
+  },
+  {
+    "name": "Bodrum Yalıkavak",
+    "id": 2750,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2750/1716461435628-Bodrum Yalıkavak.png",
+    "category": "Billboards",
+    "lat": 37.10433,
+    "lng": 27.289028,
+    "resolution": {
+      "width": 1440,
+      "height": 864
+    }
+  },
+  {
+    "name": "Fethiye Göcek Meydan",
+    "id": 2756,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2756/1716461143991-Fethiye Göcek.png",
+    "category": "Billboards",
+    "lat": 36.756816,
+    "lng": 28.944195,
+    "resolution": {
+      "width": 1536,
+      "height": 1152
+    }
+  },
+  {
+    "name": "Bodrum Göltürkbükü ",
+    "id": 2751,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2751/1716461346975-Bodrum Göltürkbükü.png",
+    "category": "Billboards",
+    "lat": 37.104339,
+    "lng": 27.395081,
+    "resolution": {
+      "width": 1152,
+      "height": 672
+    }
+  },
+  {
+    "name": "Bodrum Liman",
+    "id": 2752,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2752/1716460951076-Bodrum Liman.png",
+    "category": "Billboards",
+    "lat": 37.033665,
+    "lng": 27.421934,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "Bodrum Turgut Reis",
+    "id": 2749,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2749/1716461510777-Bodrum Turgutreis.png",
+    "category": "Billboards",
+    "lat": 37.006726,
+    "lng": 27.25716,
+    "resolution": {
+      "width": 1440,
+      "height": 864
+    }
+  },
+  {
+    "name": "Fethiye Kesikkapı",
+    "id": 2755,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2755/1716460533589-Fethiye Kesikkapı.png",
+    "category": "Billboards",
+    "lat": 36.625251,
+    "lng": 29.132158,
+    "resolution": {
+      "width": 1536,
+      "height": 1152
+    }
+  },
+  {
+    "name": "Dalaman Merkez",
+    "id": 2754,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2754/1716460631643-Dalaman Merkez.png",
+    "category": "Billboards",
+    "lat": 36.766902,
+    "lng": 28.799725,
+    "resolution": {
+      "width": 1536,
+      "height": 1152
+    }
+  },
+  {
+    "name": "Bodrum Otogar",
+    "id": 2753,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2753/1716461068768-Bodrum Otogar.png",
+    "category": "Billboards",
+    "lat": 37.036695,
+    "lng": 27.433441,
+    "resolution": {
+      "width": 1088,
+      "height": 576
+    }
+  },
+  {
+    "name": "Bodrum Ortakent Kavşağı Digital Billboard",
+    "id": 2660,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2660/1715935450783-Bodrum Kavsak.jpg",
+    "category": "Billboards",
+    "lat": 37.0559964,
+    "lng": 27.3586128,
+    "resolution": {
+      "width": 1536,
+      "height": 576
+    }
+  },
+  {
+    "name": "Levent 199 Onu Orta Refuj",
+    "id": 2651,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2651/1713969895707-Levent 199 Onu Orta Refuj.jpg",
+    "category": "Urban Panels",
+    "lat": 41.080425,
+    "lng": 29.011433,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Besiktas Meydan Isiklar (Otobus Duraklari)",
+    "id": 2652,
+    "category": "Urban Panels",
+    "lat": 41.042385,
+    "lng": 29.006878,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Levent 199 Onu Gultepe Girisi",
+    "id": 2653,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2653/1713969636742-Levent 199 Önü Büyükdere Cd.jpg",
+    "category": "Urban Panels",
+    "lat": 41.0791,
+    "lng": 29.0123,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Sait Ciftci Hast. Kopru Donusu",
+    "id": 2654,
+    "category": "Urban Panels",
+    "lat": 41.051521,
+    "lng": 29.008343,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Barbaros Bulvarı Yıldız Köprü Katılımı-2 Yıldız Teknik Üni.Durağı sonrası (Levent Yönü)",
+    "id": 2655,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2655/1714396406883-Barbaros Bulvarı Yıldız Köprü Katılımı-2 Yıldız Teknik Üni.Durağı sonrası (Levent Yönü).png",
+    "category": "Urban Panels",
+    "lat": 41.053009,
+    "lng": 29.009264,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Beşiktaş Meydan Durak Çıkışı (Işıklar)",
+    "id": 2656,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2656/1714397161657-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 4.25.18 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.042385,
+    "lng": 29.006878,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Barbaros Bulv. Tüik İstanbul Bölge Müdürlüğü Önü Beşiktaş Yönü",
+    "id": 2657,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2657/1714396732768-Barbaros Bulv. Tüik İstanbul Bölge Müdürlüğü Önü Beşiktaş Yönü.png",
+    "category": "Urban Panels",
+    "lat": 41.046673,
+    "lng": 29.007536,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Silindir_Dolmabahce",
+    "id": 2659,
+    "category": "Urban Panels",
+    "lat": 41.037737,
+    "lng": 28.995619,
+    "resolution": {
+      "width": 2352,
+      "height": 1344
+    }
+  },
+  {
+    "name": "Nispetiye Cad. No:22 Onu",
+    "id": 2637,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2637/1715764633257-Nispetiye.png",
+    "category": "Urban Panels",
+    "lat": 41.074837,
+    "lng": 29.018274,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Nispetiye Cad. Huzurevi Onu",
+    "id": 2636,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2636/1715764758195-Nispetiye Huzurevi.png",
+    "category": "Urban Panels",
+    "lat": 41.082592,
+    "lng": 29.03789,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Buyukdere Enza Home Denizbank Onu",
+    "id": 2635,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2635/1724161689250-IMG_8476.jpg",
+    "category": "Urban Panels",
+    "lat": 41.076927,
+    "lng": 29.014147,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Sheraton Karsisi  Akcam Sk. Girisi",
+    "id": 2634,
+    "category": "Urban Panels",
+    "lat": 41.086276,
+    "lng": 29.007318,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bank Mellat Onu",
+    "id": 2633,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2633/1713969236090-Bank Mellat Onu Buyukdere Caddesı.png",
+    "category": "Urban Panels",
+    "lat": 41.074829,
+    "lng": 29.015318,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Nispetiye Cad. Np Karsisi Orta Refuj",
+    "id": 2643,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2643/1715764859675-Nispetiye NP.png",
+    "category": "Urban Panels",
+    "lat": 41.076199,
+    "lng": 29.020399,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Nispetiye Pelit Karsisi",
+    "id": 2642,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2642/1715765293611-Nispetiye Pelit.png",
+    "category": "Urban Panels",
+    "lat": 41.076294,
+    "lng": 29.020821,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Koç Köprüsü Altı LS Motor Karşısı Nıspetiye Metro Çıkışı",
+    "id": 2641,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2641/1713968817227-Nispetiye Caddesi Nispetiye Metro Giriş.png",
+    "category": "Urban Panels",
+    "lat": 41.077278,
+    "lng": 29.024082,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Sapphire Karsisi  4. Levent Metro Giris",
+    "id": 2632,
+    "category": "Urban Panels",
+    "lat": 41.085362,
+    "lng": 29.00775,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Balmumcu Kopru Yildiz Katilim Sag",
+    "id": 2631,
+    "category": "Urban Panels",
+    "lat": 41.042637,
+    "lng": 29.007044,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Conrad Girisi Isiklar Sag (Kopru Yonu)",
+    "id": 2630,
+    "category": "Urban Panels",
+    "lat": 41.045597,
+    "lng": 29.00749,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Levent 205 Karsisi Orta Refuj",
+    "id": 2629,
+    "category": "Urban Panels",
+    "lat": 41.083458,
+    "lng": 29.008993,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Barbaros Blv. Conrad Girisi Besiktas Yonu Orta Refuj",
+    "id": 2626,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2626/1714395662602-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 4.00.00 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.045809,
+    "lng": 29.007551,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Buyukdere Cad. Cayir Cimen Sk. Girisi",
+    "id": 2640,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2640/1713966966977-Cayir Cimen Gobek.png",
+    "category": "Urban Panels",
+    "lat": 41.078903,
+    "lng": 29.013035,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Deniz Muzesi Orta Gobek",
+    "id": 2627,
+    "category": "Urban Panels",
+    "lat": 41.042082,
+    "lng": 29.006606,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Hyatt Centric Karsisi Z.Kuyu M.",
+    "id": 2628,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2628/1713969323302-Hyatt Centric Karşısı Büyükdere Caddesi Beşiktaş Yönü.png",
+    "category": "Urban Panels",
+    "lat": 41.07563,
+    "lng": 29.014614,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Buyukdere Cad. BP Oncesi (Ayyildiz Karsisi)",
+    "id": 2639,
+    "category": "Urban Panels",
+    "lat": 41.073269,
+    "lng": 29.016111,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Nispetiye C. Profesorler Sitesi Onu",
+    "id": 2638,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2638/1715765389683-Profesörler Sitesi Önü.png",
+    "category": "Urban Panels",
+    "lat": 41.083221,
+    "lng": 29.038687,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "QNB Genel Mud. Karsisi Orta Refuj",
+    "id": 2647,
+    "category": "Urban Panels",
+    "lat": 41.081146,
+    "lng": 29.010988,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Tekfen Karsisi Orta Refuj",
+    "id": 2646,
+    "category": "Urban Panels",
+    "lat": 41.082249,
+    "lng": 29.009987,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Buyukdere Cad. QNB Onu Sag Serit",
+    "id": 2644,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2644/1713967961585-QNB Finansbank Onu.png",
+    "category": "Urban Panels",
+    "lat": 41.080238,
+    "lng": 29.011379,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Nispetiye Cad. Etiler Metro Girisi Karsisi",
+    "id": 2645,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2645/1715764436002-Nispetiye Cad. Etiler Metro Girişi.png",
+    "category": "Urban Panels",
+    "lat": 41.083019,
+    "lng": 29.038561,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Ozdilek Onu",
+    "id": 2648,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2648/1724161280041-IMG_8475.jpg",
+    "category": "Urban Panels",
+    "lat": 41.077786,
+    "lng": 29.013184,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Barbaros Blv Conrad Giris Isiklar Orta Refuj (Kopru Yonu)",
+    "id": 2649,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2649/1714395544289-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 3.56.46 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.045185,
+    "lng": 29.007385,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Buyukdere Cad. Kanyon Isiklar Orta Refuj (Sarıyer Yonu)",
+    "id": 2650,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2650/1713261076178-Buyukdere_Cad__Kanyon_Isiklar_Orta_Refuj__Sarıyer_Yonu_.jpg",
+    "category": "Urban Panels",
+    "lat": 41.0789,
+    "lng": 29.0126,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Akmerkez Ulus Kile Rest. Karşısı Orta Refuj",
+    "id": 2625,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2625/1713969171198-Ulus Kile Restaurant Karşısı.png",
+    "category": "Urban Panels",
+    "lat": 41.074928,
+    "lng": 29.027433,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "City's Nişantaşı Outdoor",
+    "id": 2624,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2624/1727468183674-c6f5fdf2-3cb8-4abb-ad11-c055322ccd6c.jpeg",
+    "category": "Spectacular",
+    "lat": 41.0497,
+    "lng": 28.9936,
+    "resolution": {
+      "width": 1064,
+      "height": 2632
+    }
+  },
+  {
+    "name": "Dolmabahce, Valide Sultan Camii Yani DL8041",
+    "id": 2620,
+    "category": "Urban Panels",
+    "lat": 41.037491,
+    "lng": 28.995096,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sehremaneti Kadikoy Dairesi Yani-1 DL8095",
+    "id": 2547,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2547/1714046631754-Sehremaneti Kadikoy Dairesi Yani-1 DL8095.png",
+    "category": "Urban Panels",
+    "lat": 40.990494,
+    "lng": 29.02179,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Rihtim, Bostanci Dolmus Duragi Yani-1 DL8094",
+    "id": 2546,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2546/1714049678250-Slack - ! Alp (DM) - Awarion - Slack 2024-04-25 at 3.53.59 PM.png",
+    "category": "Urban Panels",
+    "lat": 40.9910119,
+    "lng": 29.0220546,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sogutlucesme, Kuveyt Turk Onu DL8083",
+    "id": 2545,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2545/1714045881419-Sogutlucesme, Kuveyt Turk Onu DL8083.png",
+    "category": "Urban Panels",
+    "lat": 40.990963,
+    "lng": 29.02593,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kurbagalidere, Turksat Karsisi DL8082",
+    "id": 2544,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2544/1714045482397-Kurbagalidere, Turksat Karsisi DL8082.png",
+    "category": "Urban Panels",
+    "lat": 40.99332,
+    "lng": 29.035828,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sehremaneti Kadikoy Dairesi Yani-2 DL8096",
+    "id": 2548,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2548/1714046690032-Sehremaneti Kadikoy Dairesi Yani-2 DL8096.png.png",
+    "category": "Urban Panels",
+    "lat": 40.990364,
+    "lng": 29.022076,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Rihtim, Bostanci Dolmus Duragi Yani-2 DL8097",
+    "id": 2549,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2549/1714046799195-Rihtim, Bostanci Dolmus Duragi Yani-2 DL8097.png",
+    "category": "Urban Panels",
+    "lat": 40.990288,
+    "lng": 29.021753,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sogutlucesme, Pidem Onu DL8098",
+    "id": 2550,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2550/1714046941544-Sogutlucesme, Pidem Onu DL8098.png",
+    "category": "Urban Panels",
+    "lat": 40.991119,
+    "lng": 29.023624,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sogutlucesme, Hosta Onu DL8099",
+    "id": 2551,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2551/1714047163016-Sogutlucesme, Hosta Onu DL8099.png",
+    "category": "Urban Panels",
+    "lat": 40.991406,
+    "lng": 29.024811,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sogutlucesme, Kovan Firin Onu DL8100",
+    "id": 2552,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2552/1714048549563-Slack - ! Alp (DM) - Awarion - Slack 2024-04-25 at 3.35.03 PM.png",
+    "category": "Urban Panels",
+    "lat": 40.991154,
+    "lng": 29.025249,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Sogutlucesme, Carmelo Coffee Karsisi DL8101",
+    "id": 2553,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2553/1714048720514-Sogutlucesme, Carmelo Coffee Karsisi DL8101.png",
+    "category": "Urban Panels",
+    "lat": 40.990486,
+    "lng": 29.02916,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Rihtim, Istanbulkart Bufe Onu DL8084",
+    "id": 2554,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2554/1714048846661-Rihtim, Istanbulkart Bufe Onu DL8084.png.png",
+    "category": "Urban Panels",
+    "lat": 40.991688,
+    "lng": 29.023987,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kadikoy Meydan, 4.Noter Karsisi DL8085",
+    "id": 2555,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2555/1714048883432-Kadikoy Meydan, 4.Noter Karsisi DL8085.png",
+    "category": "Urban Panels",
+    "lat": 40.991989,
+    "lng": 29.0243,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kadikoy Meydan, Orta Refuj Isiklar DL8086",
+    "id": 2556,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2556/1714049018083-Kadikoy Meydan, Orta Refuj Isiklar DL8086.png",
+    "category": "Urban Panels",
+    "lat": 40.991817,
+    "lng": 29.024122,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Haldun Taner Sahnesi Yani, Eminonu Iskele Tarafi DL8087",
+    "id": 2557,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2557/1714049271965-Haldun Taner Sahnesi Yani, Eminonu Iskele Tarafi DL8087.png",
+    "category": "Urban Panels",
+    "lat": 40.991592,
+    "lng": 29.024029,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Haldun Taner Sahnesi Yani, Besiktas Iskele Tarafi DL8088",
+    "id": 2558,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2558/1714049397713-Haldun Taner Sahnesi Yani, Besiktas Iskele Tarafi DL8088.png.png",
+    "category": "Urban Panels",
+    "lat": 40.991516,
+    "lng": 29.023563,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kadikoy Meydani, Kadikoy Metro Istasyonu Girisi DL8089",
+    "id": 2559,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2559/1714049575249-Kadikoy Meydani, Kadikoy Metro Istasyonu Girisi DL8089.png",
+    "category": "Urban Panels",
+    "lat": 40.991226,
+    "lng": 29.022564,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Rihtim, Zabita Amirligi Onu DL8090",
+    "id": 2560,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2560/1714050387835-Preview - Rihtim, Eminonu Iskele Peron Yani DL8093.png 2024-04-25 at 4.05.10 PM.png",
+    "category": "Urban Panels",
+    "lat": 40.990738,
+    "lng": 29.021862,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Rihtim, Besiktas Iskele Onu DL8091",
+    "id": 2561,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2561/1714049992438-Rihtim, Besiktas Iskele Onu DL8091.png.png",
+    "category": "Urban Panels",
+    "lat": 40.992779,
+    "lng": 29.024099,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kadikoy Meydani, Karakoy Iskelesi Giris Onu DL8092",
+    "id": 2562,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2562/1714050018206-Kadikoy Meydani, Karakoy Iskelesi Giris Onu DL8092.png",
+    "category": "Urban Panels",
+    "lat": 40.992481,
+    "lng": 29.023693,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Rihtim, Eminonu Iskele Peron Yani DL8093",
+    "id": 2563,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2563/1714050249598-Rihtim, Zabita Amirligi Onu DL8090.png.png",
+    "category": "Urban Panels",
+    "lat": 40.992283,
+    "lng": 29.024437,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cemil Topuzlu Parki Girisi Karsisi - DL8043 ",
+    "id": 2564,
+    "category": "Urban Panels",
+    "lat": 41.055239,
+    "lng": 29.03402,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Emirgan Duragi Ilerisi - DL8068 ",
+    "id": 2565,
+    "category": "Urban Panels",
+    "lat": 41.1079258,
+    "lng": 29.0582188,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Bebek, Bebek Duragi Oncesi Cafe Nero Onu - DL8079 ",
+    "id": 2566,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2566/1714036596037-BEBEK CAD. BEBEK DURAĞI ÖNCESİ, ZİRAAT BANKASI ÖNÜ BEŞİKTAŞ YÖNÜ.png",
+    "category": "Urban Panels",
+    "lat": 41.076832,
+    "lng": 29.043013,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Yahya Kemal, Sade Kahve Karsisi - DL8058",
+    "id": 2567,
+    "category": "Urban Panels",
+    "lat": 41.086453,
+    "lng": 29.056919,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Yahya Kemal, Asiyan Fener Yani-2 - DL8057 ",
+    "id": 2568,
+    "category": "Urban Panels",
+    "lat": 41.08373,
+    "lng": 29.056836,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Kavalar Mescidi Oncesi - DL8055 ",
+    "id": 2569,
+    "category": "Urban Panels",
+    "lat": 41.080082,
+    "lng": 29.051928,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Kavalar Mescidi Sonrasi - DL8054 ",
+    "id": 2570,
+    "category": "Urban Panels",
+    "lat": 41.080433,
+    "lng": 29.052994,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, No:123 Karsisi - DL8053 ",
+    "id": 2571,
+    "category": "Urban Panels",
+    "lat": 41.079971,
+    "lng": 29.050924,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Bogazici Universitesi Duragi -1 - DL8052 ",
+    "id": 2572,
+    "category": "Urban Panels",
+    "lat": 41.079849,
+    "lng": 29.050276,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Camlibahce Duragi Yani - 2 - DL8046",
+    "id": 2573,
+    "category": "Urban Panels",
+    "lat": 41.070938,
+    "lng": 29.045256,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Arnavutkoy, Camli Bahce Duragi - DL8047 ",
+    "id": 2574,
+    "category": "Urban Panels",
+    "lat": 41.07096,
+    "lng": 29.0444935,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Bebek Parki Onu DL8048",
+    "id": 2575,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2575/1714036843375-BEBEK CAD. BEBEK PARKI ÖNÜ SARIYER YÖNÜ .png",
+    "category": "Urban Panels",
+    "lat": 41.075562,
+    "lng": 29.043354,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Midpoint Karsisi DL8049",
+    "id": 2576,
+    "category": "Urban Panels",
+    "lat": 41.075462,
+    "lng": 29.043232,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Bebek Parki Kosesi DL8050 ",
+    "id": 2577,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2577/1714037042181-BEBEK CAD. BEBEK MEYDANI MC DONALDS ÖNÜ .png",
+    "category": "Urban Panels",
+    "lat": 41.075401,
+    "lng": 29.04324,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Bogazici Universitesi Duragi -2 DL8051",
+    "id": 2578,
+    "category": "Urban Panels",
+    "lat": 41.079796,
+    "lng": 29.049929,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Baltalimani Hastanesi Onu DL8061",
+    "id": 2579,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2579/1715164912798-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 5.53.22 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.096278,
+    "lng": 29.05322024,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Emirgan Iskelesi Onu DL8065",
+    "id": 2580,
+    "category": "Urban Panels",
+    "lat": 41.103039,
+    "lng": 29.055914,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Emirgan Sutis Karsisi Dl8066 ",
+    "id": 2581,
+    "category": "Urban Panels",
+    "lat": 41.104972,
+    "lng": 29.056743,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Emirgan Huqqa Karsisi DL8067",
+    "id": 2582,
+    "category": "Urban Panels",
+    "lat": 41.10751,
+    "lng": 29.057972,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "La Boom No:14 Karsisi DL8069",
+    "id": 2583,
+    "category": "Urban Panels",
+    "lat": 41.109554,
+    "lng": 29.058853,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Mushir Fuat Pasa Yalisi Cikisi DL8070 ",
+    "id": 2584,
+    "category": "Urban Panels",
+    "lat": 41.110375,
+    "lng": 29.058203,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Mushir Fuat Pasa Duragi Sonrasi DL8071",
+    "id": 2585,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2585/1715164869869-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 5.53.22 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.110931,
+    "lng": 29.057749,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Koybasi, Osman Reis Camii Karsisi DL8072",
+    "id": 2586,
+    "category": "Urban Panels",
+    "lat": 41.114559,
+    "lng": 29.0619,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Koybasi, Honda Onu DL8073",
+    "id": 2587,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2587/1715164891664-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 5.53.22 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.115993,
+    "lng": 29.062805,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Koybasi, Sehzade Burhanettin Yali Karsisi DL8074",
+    "id": 2588,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2588/1715165006444-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 5.53.22 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.119198,
+    "lng": 29.068165,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kurucesme, Kurucesme Parki DL8044",
+    "id": 2589,
+    "category": "Urban Panels",
+    "lat": 41.060044,
+    "lng": 29.036583,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Camlibahce Duragi Yani DL8045",
+    "id": 2590,
+    "category": "Urban Panels",
+    "lat": 41.070351,
+    "lng": 29.045403,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Bebek ING Bank Karsisi DL8081",
+    "id": 2591,
+    "category": "Urban Panels",
+    "lat": 41.076107,
+    "lng": 29.043116,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Cevdet Pasa, Bebek Duragi Karsisi DL8080",
+    "id": 2592,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2592/1714036747935-CEVDET PAŞA CAD. BEBEK İETT DURAĞI KARŞISI ORTA REFÜJ .png",
+    "category": "Urban Panels",
+    "lat": 41.076645,
+    "lng": 29.043158,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Bebek Ispark 2 DL8078",
+    "id": 2593,
+    "category": "Urban Panels",
+    "lat": 41.077026,
+    "lng": 29.043388,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Bebek Ispark 1 DL8077",
+    "id": 2594,
+    "category": "Urban Panels",
+    "lat": 41.077026,
+    "lng": 29.043388,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Koybasi, Halkbank Sonrasi DL8076",
+    "id": 2595,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2595/1714402481016-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 5.53.22 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.123688,
+    "lng": 29.070917,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Yahya Kemal, Asiyan Fener Yani-1 DL8056",
+    "id": 2596,
+    "category": "Urban Panels",
+    "lat": 41.0826,
+    "lng": 29.056639,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Koybasi, Yenikoy Motors Sonrasi DL8075",
+    "id": 2597,
+    "category": "Urban Panels",
+    "lat": 41.119823,
+    "lng": 29.068951,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Boyacıkoy Duragi Ilerisi Dl8064",
+    "id": 2598,
+    "category": "Urban Panels",
+    "lat": 41.101255,
+    "lng": 29.0551747,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Japon Bahcesi Onu DL8063",
+    "id": 2599,
+    "category": "Urban Panels",
+    "lat": 41.0975977,
+    "lng": 29.0524525,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Japon Bahcesi Onu Orta Refuj DL8062",
+    "id": 2600,
+    "category": "Urban Panels",
+    "lat": 41.097009,
+    "lng": 29.052869,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Baltalimani Kemik Hast. Isiklar DL8060",
+    "id": 2601,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2601/1715164933305-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 5.53.22 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.096848,
+    "lng": 29.053138,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kurucesme, Komur Tevzi Sonrasi DL8042",
+    "id": 2602,
+    "category": "Urban Panels",
+    "lat": 41.06239,
+    "lng": 29.03967,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan-Dolmabahce Gazhane Kesisimi DL8022",
+    "id": 2603,
+    "category": "Urban Panels",
+    "lat": 41.03754,
+    "lng": 28.994999,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Kabatas TP Karsisi -1 DL8023",
+    "id": 2604,
+    "category": "Urban Panels",
+    "lat": 41.035832,
+    "lng": 28.99398,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Kabatas TP Karsisi -2 DL8024",
+    "id": 2605,
+    "category": "Urban Panels",
+    "lat": 41.035145,
+    "lng": 28.993521,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Kabatas TP Karsisi -3 DL8025",
+    "id": 2606,
+    "category": "Urban Panels",
+    "lat": 41.035206,
+    "lng": 28.993225,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Kabatas Duragi Oncesi DL8026",
+    "id": 2607,
+    "category": "Urban Panels",
+    "lat": 41.034866,
+    "lng": 28.993032,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Kabatas Duragi Sonrasi DL8027",
+    "id": 2608,
+    "category": "Urban Panels",
+    "lat": 41.034191,
+    "lng": 28.992369,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Findikli Celebi Hamami Sk. Girisi DL8028",
+    "id": 2609,
+    "category": "Urban Panels",
+    "lat": 41.031811,
+    "lng": 28.989668,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Mebusan Yokusu Cıkıs Karsisi DL8029",
+    "id": 2610,
+    "category": "Urban Panels",
+    "lat": 41.03152,
+    "lng": 28.989283,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Nusretiye Camii Girisi Karsisi DL8030",
+    "id": 2611,
+    "category": "Urban Panels",
+    "lat": 41.027843,
+    "lng": 28.983255,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan-Bogaz Kesen Kesisimi DL8031",
+    "id": 2612,
+    "category": "Urban Panels",
+    "lat": 41.0271,
+    "lng": 28.980616,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Tophane Duragi Oncesi DL8032",
+    "id": 2613,
+    "category": "Urban Panels",
+    "lat": 41.026882,
+    "lng": 28.980326,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Istanbul Resim ve Heykel Muzesi Onu DL8035",
+    "id": 2614,
+    "category": "Urban Panels",
+    "lat": 41.028118,
+    "lng": 28.98428,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Nusretiye Camii Girisi Onu DL8034",
+    "id": 2622,
+    "category": "Urban Panels",
+    "lat": 41.027165,
+    "lng": 28.982716,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Galataport Yaya Girisi Onu DL8033",
+    "id": 2621,
+    "category": "Urban Panels",
+    "lat": 41.026894,
+    "lng": 28.98185,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Dolmabahce, Valide Sultan Camii Oncesi DL8040",
+    "id": 2619,
+    "category": "Urban Panels",
+    "lat": 41.03627,
+    "lng": 28.994406,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Meclis-i Mebusan, Kahve Dunyasi Karsisi DL8039",
+    "id": 2618,
+    "category": "Urban Panels",
+    "lat": 41.033134,
+    "lng": 28.991274,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Kabatas İs Bankasi Karsisi DL8038",
+    "id": 2617,
+    "category": "Urban Panels",
+    "lat": 41.03299,
+    "lng": 28.991188,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Findikli Otobus Duragi Oncesi DL8037",
+    "id": 2616,
+    "category": "Urban Panels",
+    "lat": 41.031273,
+    "lng": 28.989063,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Port Bosphorus Hotel Karsisi DL8036",
+    "id": 2615,
+    "category": "Urban Panels",
+    "lat": 41.028126,
+    "lng": 28.984547,
+    "resolution": {
+      "width": 338,
+      "height": 602
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Odeabank Önü",
+    "id": 2505,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376636423-20231010_151604.jpg",
+    "category": "Urban Panels",
+    "lat": 40.969626,
+    "lng": 29.063284,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bebek Otobüs Durağı Karşısı Orta Refüj (Sarıyer Yönü)",
+    "id": 2490,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2490/1729158158949-IMG_9445.jpg",
+    "category": "Urban Panels",
+    "lat": 41.076542,
+    "lng": 29.043122,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bebek ING Bank Karşısı Orta Refüj (Beşiktaş Yönü)",
+    "id": 2489,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2489/1714037767813-CEVDET PAŞA CAD. BEBEK INGBANK KARŞISI ORTA REFÜJ .png",
+    "category": "Urban Panels",
+    "lat": 41.076075,
+    "lng": 29.043077,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Büyükdere Cad. - Kanyon Önü 1",
+    "id": 2485,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2485/1713971009805-Kanyon onu 1.jpg",
+    "category": "Urban Panels",
+    "lat": 41.078468,
+    "lng": 29.012664,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Akmerkez Starbucks Karşısı",
+    "id": 2471,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2471/1713968930881-Akmerkez Karşısı Ulus Koc Koprusu.png",
+    "category": "Urban Panels",
+    "lat": 41.076499,
+    "lng": 29.02611,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bebek Parkı 1",
+    "id": 2474,
+    "category": "Urban Panels",
+    "lat": 41.077008,
+    "lng": 29.043395,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Büyükdere Cad.Kanyon Karşısı - Levent Cami Orta Refüj",
+    "id": 2475,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2475/1713966944626-Levent Cami karsisi.png",
+    "category": "Urban Panels",
+    "lat": 41.07871,
+    "lng": 29.01289,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bebek Durak - Cafe Nero Önü Beşiktaş Yönü",
+    "id": 2476,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2476/1729158095324-IMG_9441.jpg",
+    "category": "Urban Panels",
+    "lat": 41.076887,
+    "lng": 29.043046,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Balmumcu İş Bankası Önü (Eski ATV)",
+    "id": 2477,
+    "category": "Urban Panels",
+    "lat": 41.060641,
+    "lng": 29.010912,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Balmumcu Girişi Işıklar",
+    "id": 2478,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2478/1714397289228-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 4.27.26 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.063341,
+    "lng": 29.011708,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Akbank Önü",
+    "id": 2497,
+    "category": "Urban Panels",
+    "lat": 40.961298,
+    "lng": 29.078708,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Mango No: 414 Önü",
+    "id": 2496,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2496/1724944914372-20240614_122209.jpg",
+    "category": "Urban Panels",
+    "lat": 40.96023,
+    "lng": 29.080635,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Büyükdere Cad.QNB Finansbank Önü Orta Refüj",
+    "id": 2479,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2479/1713968200468-QNB Finansbank Onu Orta Refuj.png",
+    "category": "Urban Panels",
+    "lat": 41.08314,
+    "lng": 29.009605,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Balmumcu Beşiktaş İnişi 1",
+    "id": 2480,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2480/1714397492125-Balmumcu Beşiktaş İnişi 1.png",
+    "category": "Urban Panels",
+    "lat": 41.044479,
+    "lng": 29.007282,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Balmumcu Beşiktaş İnişi 2",
+    "id": 2481,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2481/1714397549912-Balmumcu Beşiktaş İnişi 2.png",
+    "category": "Urban Panels",
+    "lat": 41.044847,
+    "lng": 29.007343,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Beşiktaş Meydan - Durak 2 (Metro Giriş)",
+    "id": 2482,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2482/1714396314238-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 4.10.50 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.042855,
+    "lng": 29.007138,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Büyükdere Cad. - Kanyon Önü 2",
+    "id": 2483,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2483/1724160907169-IMG_8473.jpg",
+    "category": "Urban Panels",
+    "lat": 41.079338,
+    "lng": 29.012029,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Müzeyyen Sokak Giriş Öncesi",
+    "id": 2495,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2495/1724944722170-20240717_125425.jpg",
+    "category": "Urban Panels",
+    "lat": 40.958391,
+    "lng": 29.084817,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Ethem Efendi Cad. Öncesi",
+    "id": 2494,
+    "category": "Urban Panels",
+    "lat": 40.966067,
+    "lng": 29.070021,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Beşiktaş Meydan - Durak Çıkışı",
+    "id": 2484,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2484/1714397032828-Keynote - Besiktas_Dijital_Urunler_Tamami 2024-04-29 at 4.22.56 PM.png",
+    "category": "Urban Panels",
+    "lat": 41.043395,
+    "lng": 29.006944,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Barbaros Bulv. Ortaköy Dönüşü Işıklar Orta Refuj",
+    "id": 2486,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2486/1714396801542-Barbaros Bulv. Ortaköy Dönüşü Işıklar Orta Refuj.png",
+    "category": "Urban Panels",
+    "lat": 41.0441,
+    "lng": 29.0074,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Beşiktaş Meydan - Hakan Cafe Önü",
+    "id": 2487,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2487/1714396906062-Beşiktaş Meydan - Hakan Cafe Önü.png",
+    "category": "Urban Panels",
+    "lat": 41.042728,
+    "lng": 29.006719,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Maçka Cad. İTÜ İşletme Fak. Karşısı Orta Refüj",
+    "id": 2488,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2488/1713963890449-Maçka Cad. İTÜ İşletme Fak. Karşısı Orta Refüj.png.png",
+    "category": "Urban Panels",
+    "lat": 41.043727,
+    "lng": 28.995252,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad.  Zara Önü",
+    "id": 2540,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704372714099-20231129_125043.jpg",
+    "category": "Urban Panels",
+    "lat": 40.958714,
+    "lng": 29.084139,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Tesvikiye Cad. - Vali Konagi Cad. Kesisimi Yargici Onu",
+    "id": 2504,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1706872673783-20221014_123226.jpg",
+    "category": "Urban Panels",
+    "lat": 41.0516,
+    "lng": 28.9915,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Gönül Kahvesi Karşısı",
+    "id": 2512,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375790245-20230418_135230.jpg",
+    "category": "Urban Panels",
+    "lat": 40.967573,
+    "lng": 29.067302,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Yargıcı Önü",
+    "id": 2493,
+    "category": "Urban Panels",
+    "lat": 40.965882,
+    "lng": 29.070388,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Valikonagi Caddesi - Starbucks - Mango Onu",
+    "id": 2516,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704369827455-20230418_103458.jpg",
+    "category": "Urban Panels",
+    "lat": 41.04837,
+    "lng": 28.991768,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. İl Tarım Müd. Karşısı",
+    "id": 2511,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376481878-20230425_135757.jpg",
+    "category": "Urban Panels",
+    "lat": 40.96688,
+    "lng": 29.068337,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Ethem Efendi Cad. Sonrası",
+    "id": 2492,
+    "category": "Urban Panels",
+    "lat": 40.966168,
+    "lng": 29.069878,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Şaşkınbakkal İETT Durağı Yanı",
+    "id": 2491,
+    "category": "Urban Panels",
+    "lat": 40.96349,
+    "lng": 29.074876,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Kızılkayalar Önü",
+    "id": 2531,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375191800-20230418_141748.jpg",
+    "category": "Urban Panels",
+    "lat": 40.962588,
+    "lng": 29.076388,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Abdi Ipekci Caddesi Gucci Karsisi",
+    "id": 2519,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704370490467-20230511_103438.jpg",
+    "category": "Urban Panels",
+    "lat": 41.050409,
+    "lng": 28.989789,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Vali Konagi Caddesi Burgan Bank Karsisi",
+    "id": 2522,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704370627867-IMG20230420104353.jpg",
+    "category": "Urban Panels",
+    "lat": 41.051693,
+    "lng": 28.991446,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Vali Konagi Caddesi Openhaus Onu Abdi Ipekci Caddesi Cikisi",
+    "id": 2523,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704370660364-20230418_102344.jpg",
+    "category": "Urban Panels",
+    "lat": 41.047302,
+    "lng": 28.992957,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Zincirli Köşk Sk. Apple Cadde Önü",
+    "id": 2526,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373726247-20231026_122643.jpg",
+    "category": "Urban Panels",
+    "lat": 40.958767,
+    "lng": 29.083742,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad.  Şaşkınbakkal Alix Avien / Tchibo Önü",
+    "id": 2533,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375567776-20230418_135230.jpg",
+    "category": "Urban Panels",
+    "lat": 40.96139,
+    "lng": 29.07825,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Desa Önü",
+    "id": 2539,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375348691-20230418_140110.jpg",
+    "category": "Urban Panels",
+    "lat": 40.95931,
+    "lng": 29.082711,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Valikonağı Cad. Nişantaşı Durağı Öncesi Işık Apt. No 6 Önü",
+    "id": 2517,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704369873559-20230418_100541.jpg",
+    "category": "Urban Panels",
+    "lat": 41.05031,
+    "lng": 28.989619,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Marks&Spencer Önü",
+    "id": 2532,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704374313908-20230510_152556.jpg",
+    "category": "Urban Panels",
+    "lat": 40.962268,
+    "lng": 29.076732,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Göztepe Parki Kosesi",
+    "id": 2513,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376515565-20231010_093147.jpg",
+    "category": "Urban Panels",
+    "lat": 40.97122,
+    "lng": 29.0603,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Eytem Caddesi - Macka Otel Duragi Oncesi (St. Regis 1)",
+    "id": 2518,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704369979230-20231129_114144.jpg",
+    "category": "Urban Panels",
+    "lat": 41.047862,
+    "lng": 28.992403,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Mim Kemal Oke Cd. Chopard Karsisi (Macka Led Gobek)",
+    "id": 2520,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704370540263-IMG20230321100936.jpg",
+    "category": "Urban Panels",
+    "lat": 41.050831,
+    "lng": 28.990272,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Nisantasi Network Macka Demokrasi Parki Giris Karsisi Orta Gobek",
+    "id": 2521,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704370586195-20230418_112253.jpg",
+    "category": "Urban Panels",
+    "lat": 41.051388,
+    "lng": 28.991112,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Beymen Önü",
+    "id": 2543,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375265548-20230425_125223.jpg",
+    "category": "Urban Panels",
+    "lat": 40.956815,
+    "lng": 29.08787,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Garanti BBVA - Cook Shop Önü",
+    "id": 2542,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373129456-20231129_133000.jpg",
+    "category": "Urban Panels",
+    "lat": 40.957171,
+    "lng": 29.087454,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Vakko Wedding Önü",
+    "id": 2541,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373419698-Vakko.jpeg",
+    "category": "Urban Panels",
+    "lat": 40.966388,
+    "lng": 29.06922,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Vakko Önü",
+    "id": 2538,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373342023-20231129_125925.jpg",
+    "category": "Urban Panels",
+    "lat": 40.959589,
+    "lng": 29.082232,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Tommy Hilfiger Önü",
+    "id": 2537,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704372764622-20231026_123303(0).jpg",
+    "category": "Urban Panels",
+    "lat": 40.959588,
+    "lng": 29.082047,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. H&M Önü",
+    "id": 2536,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704372053977-20231026_130349(0).jpg",
+    "category": "Urban Panels",
+    "lat": 40.960005,
+    "lng": 29.08146,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Mado Önü",
+    "id": 2535,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375522018-20230425_131345.jpg",
+    "category": "Urban Panels",
+    "lat": 40.960286,
+    "lng": 29.080864,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Şensokak Durağı Sonrası Denizbank / Chakra Önü",
+    "id": 2534,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373793747-20231129_134607.jpg",
+    "category": "Urban Panels",
+    "lat": 40.960555,
+    "lng": 29.079971,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Şaşkınbakkal İETT Durağı Karşısı / Penti Önü",
+    "id": 2530,
+    "category": "Urban Panels",
+    "lat": 40.962933,
+    "lng": 29.075944,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Şaşkınbakkal Durağı Sonrası Ziraat Bankası Önü",
+    "id": 2529,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704374590195-20230510_153759.jpg",
+    "category": "Urban Panels",
+    "lat": 40.963279,
+    "lng": 29.075252,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "İstanbul - Bagdat Cad. Giovanni Gentle Onu",
+    "id": 2528,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704375308192-Beşiktaş.jpeg",
+    "category": "Urban Panels",
+    "lat": 40.965126,
+    "lng": 29.072136,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad.  Turkcell Şengüller Önü",
+    "id": 2525,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373079291-20231129_135234.jpg",
+    "category": "Urban Panels",
+    "lat": 40.96419,
+    "lng": 29.07358,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Akbank Önü No: 350",
+    "id": 2524,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373546853-20231129_131202.jpg",
+    "category": "Urban Panels",
+    "lat": 40.963531,
+    "lng": 29.074649,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Ihlamur Çıkmazı Sokak Girişi - Kızıltoprak Işıklar",
+    "id": 2515,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376803369-20231010_094057.jpg",
+    "category": "Urban Panels",
+    "lat": 40.98116,
+    "lng": 29.041709,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Hacı Mehmet Sokak Kesişimi No:174 - Feneryolu Işıklar",
+    "id": 2514,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704373655940-20231129_134607.jpg",
+    "category": "Urban Panels",
+    "lat": 40.975785,
+    "lng": 29.050773,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Erenköy İETT Durağı Karşısı - Paşabahçe - İşbankası Önü",
+    "id": 2509,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376073313-20230425_135757.jpg",
+    "category": "Urban Panels",
+    "lat": 40.966629,
+    "lng": 29.068996,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Boyner Cadde Önü",
+    "id": 2508,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376424424-20231010_091033.jpg",
+    "category": "Urban Panels",
+    "lat": 40.965684,
+    "lng": 29.07077,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Eytam Cad. Maçka Otel Durağı Öncesi Dolmabahçe Yönü",
+    "id": 2507,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2507/1713969301641-Eytam Cad. Maçka Otel Durağı Öncesi Dolmabahçe Yönü.png",
+    "category": "Urban Panels",
+    "lat": 41.04815,
+    "lng": 28.99135,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. Yargıcı Karşısı",
+    "id": 2506,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704376685353-20231010_153228.jpg",
+    "category": "Urban Panels",
+    "lat": 40.964859,
+    "lng": 29.072261,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Maçka Cad. İTÜ Maçka Kampüsü Karşısı",
+    "id": 2503,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2503/1713963381006-Maçka Cad. İTÜ Maçka Kampüsü Karşısı.png",
+    "category": "Urban Panels",
+    "lat": 41.045051,
+    "lng": 28.994192,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Valikonağı Cad. Cumhuriyet Cad. Girişi Orta Ada",
+    "id": 2502,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2502/1713970386689-Valikonağı Cad. Cumhuriyet Cad. Girişi Orta Ada.png",
+    "category": "Urban Panels",
+    "lat": 41.04893,
+    "lng": 28.987846,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Cumhuriyet Cad. Harbiye İETT Durağı Yanı",
+    "id": 2501,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2501/1713970519103-Cumhuriyet Cad. Harbiye İETT Durağı Yanı.png.png",
+    "category": "Urban Panels",
+    "lat": 41.048762,
+    "lng": 28.987807,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Istanbul - Bagdat Cad. İl Tarım Müd. Önü",
+    "id": 2510,
+    "category": "Urban Panels",
+    "lat": 40.966764,
+    "lng": 29.06844,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. İpekyol No:334 Önü",
+    "id": 2500,
+    "category": "Urban Panels",
+    "lat": 40.965371,
+    "lng": 29.071215,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Eski Boyner No:380 Önü",
+    "id": 2499,
+    "category": "Urban Panels",
+    "lat": 40.962665,
+    "lng": 29.076034,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bağdat Cad. Arçelik No: 302 Önü",
+    "id": 2498,
+    "category": "Urban Panels",
+    "lat": 40.967684,
+    "lng": 29.066878,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Akmerkez Karşısı",
+    "id": 2473,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2473/1715765606551-Akmerkez Karşısı.png",
+    "category": "Urban Panels",
+    "lat": 41.077429,
+    "lng": 29.027627,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Bebek Parkı 2",
+    "id": 2472,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2472/1732107571052-IMG_9246.JPG",
+    "category": "Urban Panels",
+    "lat": 41.077162,
+    "lng": 29.043493,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Maçka Cad. Maçka Durağı Sonrası Dolmabahçe Yönü",
+    "id": 2470,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2470/1713964095965-Maçka Cad. Maçka Durağı Sonrası Dolmabahçe Yönü.png",
+    "category": "Urban Panels",
+    "lat": 41.043587,
+    "lng": 28.995208,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Maçka Cad. İTÜ Kampüsü Önü Nişantaşı Yönü",
+    "id": 2469,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2469/1713963044561-Maçka Cad. İTÜ Kampüsü Önü Nişantaşı Yönü.png",
+    "category": "Urban Panels",
+    "lat": 41.04477,
+    "lng": 28.99462,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Eytam Cad. Maçka Demokrasi Parkı Teleferik Girişi Önü",
+    "id": 2468,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2468/1713968838777-Eytam Cad. Maçka Demokrasi Parkı Teleferik Girişi Önü.png",
+    "category": "Urban Panels",
+    "lat": 41.045059,
+    "lng": 28.99386,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Maçka Cad.. İTÜ Kampüs Karşısı Orta Ada",
+    "id": 2467,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2467/1713963721773-Maçka Cad.. İTÜ Kampüs Karşısı Orta Ada.png",
+    "category": "Urban Panels",
+    "lat": 41.044609,
+    "lng": 28.99457,
+    "resolution": {
+      "width": 2160,
+      "height": 3840
+    }
+  },
+  {
+    "name": "Yenisahra Metro Çıkışı",
+    "id": 2456,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2456/1710503190247-ONCITY  (16).JPG",
+    "category": "Billboards",
+    "lat": 40.984461,
+    "lng": 29.089673,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Kadıköy Meydan Metro Çıkışı",
+    "id": 2455,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/2455/1714132224867-KADIKÖY (7).JPG",
+    "category": "Billboards",
+    "lat": 40.990527,
+    "lng": 29.022059,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Heybeliada",
+    "id": 1999,
+    "category": "Ferry",
+    "lat": 40.877,
+    "lng": 29.102,
+    "resolution": {
+      "width": 192,
+      "height": 384
+    }
+  },
+  {
+    "name": "4. Levent Ziraat Bankası",
+    "id": 1761,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1706885498379-4 LEVENT ZİRAAT.JPG",
+    "category": "Billboards",
+    "lat": 41.0863579,
+    "lng": 29.010022,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Bodrum Milas Airport (P) (2 Screens)",
+    "id": 1749,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1749/1707905369119-Preview - Bodrum HL Sunum.pdf 2024-02-14 at 12.46.15 PM.png",
+    "category": "Airports",
+    "lat": 37.2419,
+    "lng": 27.6738,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Bodrum-Milas Airport (L) (8 Screens)",
+    "id": 1748,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1748/1707905298004-Preview - Bodrum HL Sunum.pdf 2024-02-14 at 12.46.56 PM.png",
+    "category": "Airports",
+    "lat": 37.2407,
+    "lng": 27.6735,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Florence N. Gayrettepe",
+    "id": 1747,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1705481848309-Florence_Nightingale.jpg",
+    "category": "Doctor’s Offices",
+    "lat": 41.0633,
+    "lng": 29.0038,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Sabiha Gökçen Metrosu",
+    "id": 1745,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1706877904123-SABİHA EKRAN (11).JPG",
+    "category": "Subway",
+    "lat": 40.906366,
+    "lng": 29.311,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Levent Özdilek AVM Önü - Büyükdere Caddesi Levent Metro Digital Billboard",
+    "id": 1743,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1706885480570-LEVENT ÖZDİLEK.JPEG",
+    "category": "Billboards",
+    "lat": 41.0777568,
+    "lng": 29.013376,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Şişli Trump AVM Önü - Mecidiyeköy Metro Digital Billboard",
+    "id": 1744,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1744/1729158409407-ONCITY (8).jpg",
+    "category": "Billboards",
+    "lat": 41.0671238,
+    "lng": 28.9924393,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Ankara Kurtuluş Metro",
+    "id": 1742,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276689491-Ankara Metro.JPG",
+    "category": "Subway",
+    "lat": 39.9282,
+    "lng": 32.8685,
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "name": "Batı Atasehir, Varyap Meridian Onu - Watergarden 1408x768",
+    "id": 1741,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273343739-Atasehir Varyap Meridian onu.jpg",
+    "category": null,
+    "lat": 40.9992499,
+    "lng": 29.104088,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "Atasehir Kucukbakkalkoy Girisi Koz Kanat Onu 1408x768",
+    "id": 1740,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273470907-Atasehir Koz Kanat onu.jpg",
+    "category": null,
+    "lat": 40.9873427,
+    "lng": 29.124254,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "Atasehir Bulvarı, Mozaik Carsi Onu 1408x768",
+    "id": 1739,
+    "category": "Billboards",
+    "lat": 40.9906979,
+    "lng": 29.136142,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "4. Levent - Sapphire Büyükdere Caddesi İstanbul",
+    "id": 1717,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704281596571-4 LEVENT (2).JPG",
+    "category": "Billboards",
+    "lat": 41.085081,
+    "lng": 29.007523,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Ankara Besevler Metro 1b (3 screens)",
+    "id": 1725,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276659327-IMG_6072.JPG",
+    "category": null,
+    "lat": 39.9323684,
+    "lng": 32.8264481,
+    "resolution": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "name": "Ankara Bahcelievler Digital Billboard",
+    "id": 1723,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276501935-ON TV ANKARA (2).JPG",
+    "category": null,
+    "lat": 39.917399,
+    "lng": 32.828832,
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "name": "Ankara Besevler Metro (3 screens)",
+    "id": 1724,
+    "category": null,
+    "lat": 39.9323684,
+    "lng": 32.8264481,
+    "resolution": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "name": "Ankara Umitkoy-Cayyolu Digital Billboard",
+    "id": 1727,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276135790-ontv ankara çayyolu  (1).jpg",
+    "category": null,
+    "lat": 39.8737626,
+    "lng": 32.6876171,
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "name": "Ankara Kugulu Park Digital Billboard",
+    "id": 1726,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276220993-ANKARA ON TV (29).JPG",
+    "category": null,
+    "lat": 39.9017565,
+    "lng": 32.8611439,
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "name": "Batı Atasehir Merkez Cumhuriyet Meydanı 1408x768",
+    "id": 1728,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273428003-Atasehir Cumhuriyet Meydani Face 2.jpg",
+    "category": null,
+    "lat": 40.9945911,
+    "lng": 29.1074109,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "Atasehir Novada AVM Karsisi 1408x768",
+    "id": 1729,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273502628-Atasehir Novada AVM karsisi.jpg",
+    "category": null,
+    "lat": 40.986016,
+    "lng": 29.1195873,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "Istanbul Atasehir Carrefour City's Istanbul Yanı - Kozyatagi Metrosu Yolu 1408x768",
+    "id": 1730,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273243821-Atasehir City's Hal Yani.jpg",
+    "category": null,
+    "lat": 40.9800396,
+    "lng": 29.1033706,
+    "resolution": {
+      "width": 1408,
+      "height": 768
+    }
+  },
+  {
+    "name": "Ankara Kizilay 1a",
+    "id": 1732,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704275957981-IMG_5676.JPG",
+    "category": null,
+    "lat": 39.9205877,
+    "lng": 32.853851,
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "name": "Ankara Kizilay Metro B",
+    "id": 1733,
+    "category": "Subway",
+    "lat": 39.9212,
+    "lng": 32.8536,
+    "resolution": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "name": "Ankara Çukurambar Ambrosia Çarşı",
+    "id": 1718,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1702636892943-ontv ankara atakule.jpg",
+    "category": "Billboards",
+    "lat": 39.8851685,
+    "lng": 32.8553073,
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "name": "Bursa Trio 512x384",
+    "id": 1736,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704274934152-trio ön 2.jpg",
+    "category": "Mall",
+    "lat": 40.2237347,
+    "lng": 28.850608,
+    "resolution": {
+      "width": 512,
+      "height": 384
+    }
+  },
+  {
+    "name": "Ankara Kizilay Metro A",
+    "id": 1734,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276570923-IMG_6072.JPG",
+    "category": "Subway",
+    "lat": 39.9212,
+    "lng": 32.8536,
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "name": "Ankara Ostim Metro",
+    "id": 1721,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276795541-Ankara Metro.JPG",
+    "category": "Subway",
+    "lat": 39.9707,
+    "lng": 32.7459,
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "name": "Ankara Hastane Metro B",
+    "id": 1719,
+    "category": "Subway",
+    "lat": 39.9691,
+    "lng": 32.7835,
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "name": "Taksim Meydan - İstanbul",
+    "id": 1716,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704281863216-TAKSİM (1).JPG",
+    "category": "Billboards",
+    "lat": 41.037664,
+    "lng": 28.98568,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Zincirlikuyu - İstanbul",
+    "id": 1715,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704281651517-GAYRETTEPE (3) (1).JPG",
+    "category": "Billboards",
+    "lat": 41.066925,
+    "lng": 29.01372,
+    "resolution": {
+      "width": 2080,
+      "height": 728
+    }
+  },
+  {
+    "name": "Mecidiyeköy - İstanbul",
+    "id": 1714,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704281774705-MECİDİYEKÖY (6).JPG",
+    "category": "Billboards",
+    "lat": 41.0660778,
+    "lng": 28.9953749,
+    "resolution": {
+      "width": 3016,
+      "height": 728
+    }
+  },
+  {
+    "name": "Ankara Sihhiye Digital Billboard",
+    "id": 1722,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276272997-Ankara Sihhiye 2.jpg",
+    "category": null,
+    "lat": 39.925816,
+    "lng": 32.855072,
+    "resolution": {
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "name": "Bursa Westpoint 672x384",
+    "id": 1738,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704274845099-Bursa Westpoint.png",
+    "category": "Billboards",
+    "lat": 40.2107346,
+    "lng": 28.9404913,
+    "resolution": {
+      "width": 672,
+      "height": 384
+    }
+  },
+  {
+    "name": "Bursa Podyumpark 512x384",
+    "id": 1737,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704274762700-IMG_6932.JPG",
+    "category": "Mall",
+    "lat": 40.2254902,
+    "lng": 28.9706571,
+    "resolution": {
+      "width": 512,
+      "height": 384
+    }
+  },
+  {
+    "name": "Ankara Hastane Metro A",
+    "id": 1720,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276754611-IMG_6072.JPG",
+    "category": "Subway",
+    "lat": 39.969,
+    "lng": 32.7834,
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "name": "Çekmeköy Metro Exit (10 screens)",
+    "id": 1705,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704285844837-Istanbul Metro Merdiven Ornek.JPG",
+    "category": "Subway",
+    "lat": 41.0144,
+    "lng": 29.19,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Çekmeköy Metro Entrance (10 screens)",
+    "id": 1698,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704285818132-Istanbul Metro Merdiven Ornek.JPG",
+    "category": "Subway",
+    "lat": 41.0144,
+    "lng": 29.19,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Izmir Turkcell Global 448x220 (ID: 77)",
+    "id": 1473,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704360257976-20220613_125054.jpg",
+    "category": "Billboards",
+    "lat": 38.448412,
+    "lng": 27.2058557,
+    "resolution": {
+      "width": 448,
+      "height": 220
+    }
+  },
+  {
+    "name": "Üsküdar Metro Exit 10 screens",
+    "id": 1466,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278803150-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0259,
+    "lng": 29.0154,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Üsküdar Metro Entrance 10 screens",
+    "id": 1465,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278783494-Istanbul Metro Merdiven Ornek.JPG",
+    "category": "Subway",
+    "lat": 41.0258,
+    "lng": 29.0149,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Opet",
+    "id": 1460,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704281203570-Opet.png",
+    "category": "Fueling Stations",
+    "lat": 41.0640387,
+    "lng": 28.9896,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "MedicalPark Antalya",
+    "id": 1459,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704280775667-medical-park-2.jpg",
+    "category": "Doctor’s Offices",
+    "lat": 36.8564,
+    "lng": 30.74681,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Göktürk İstanbul - Belediye Caddesi Larus Loft Önü",
+    "id": 1436,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707134733836-GÖKTÜRK BELEDİYE CAD. LARUS LOFT ÖNÜ - A (ALTERNATİF).JPG",
+    "category": "Urban Panels",
+    "lat": 41.179982,
+    "lng": 28.884977,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Göktürk İstanbul - İstanbul Caddesi E-Bebek Karşısı",
+    "id": 1437,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707134956008-GÖKTÜRK İSTANBUL CAD. E-BEBEK KARŞISI - B.JPG",
+    "category": "Urban Panels",
+    "lat": 41.180639,
+    "lng": 28.88281,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Göktürk İstanbul - Belediye Caddesi Günaydın Rest. İlerisi Köşe",
+    "id": 1438,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707134908285-GÖKTÜRK BELEDİYE CAD. GÜNAYDIN REST. KÖŞESİ.JPG",
+    "category": "Urban Panels",
+    "lat": 41.179143,
+    "lng": 28.887135,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Göktürk İstanbul - Göktürk Meydanı",
+    "id": 1440,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707134783841-GÖKTÜRK MEYDANI.JPG",
+    "category": "Urban Panels",
+    "lat": 41.178899,
+    "lng": 28.889432,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Göktürk İstanbul - Cumhuriyet Caddesi Migros Çaprazı",
+    "id": 1441,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707134868003-GÖKTÜRK CUMHURİYET CAD. MİGROS ÇAPRAZI - A.JPG",
+    "category": "Urban Panels",
+    "lat": 41.178742,
+    "lng": 28.890938,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Göktürk İstanbul - İstanbul Caddesi Shell Çaprazı Göktürk Caddesi Girişi",
+    "id": 1439,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707134829209-GÖKTÜRK İSTANBUL CAD. SHELL ÇAPRAZI GÖKTÜRK CAD. GİRİŞİ - A.JPG",
+    "category": "Urban Panels",
+    "lat": 41.176647,
+    "lng": 28.889809,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Liv Hospital Ulus (32 screens)",
+    "id": 1426,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704280627848-Strepsils-LivUlus (9).jpg",
+    "category": "Doctor’s Offices",
+    "lat": 41.06092,
+    "lng": 29.02861,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Liv Hospital Vadistanbul (14 screens)",
+    "id": 1427,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704280711010-Strepsils-LivVadi (16).jpg",
+    "category": "Doctor’s Offices",
+    "lat": 41.11078,
+    "lng": 28.98721,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Taksim Metro Platform Yenikapi Direction",
+    "id": 1247,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279947393-TAKSİM (5).jpg",
+    "category": null,
+    "lat": 41.0377,
+    "lng": 28.9859,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Unalan Metro Platform Sabiha Gokcen Direction",
+    "id": 1252,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1252/1724944634183-ÜNALAN (3).JPG",
+    "category": "Subway",
+    "lat": 40.9978,
+    "lng": 29.0607,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Ayrilik Cesmesi Metro Platform Tavsantepe Direction",
+    "id": 1251,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704280123842-ON TV RAY ARKASI (7).JPG",
+    "category": "Subway",
+    "lat": 41.0001,
+    "lng": 29.0304,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Taksim Metro Platform Haciosman Direction",
+    "id": 1248,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279932026-TAKSİM (5).jpg",
+    "category": "Subway",
+    "lat": 41.037,
+    "lng": 28.9859,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Ayrilik Cesmesi Metro Platform Kadikoy Direction",
+    "id": 1250,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704280144555-ON TV RAY ARKASI (7).JPG",
+    "category": null,
+    "lat": 41,
+    "lng": 29.0303,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Yenikapi Metro Platform Haciosman Direction",
+    "id": 1249,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704280024277-ON TV RAY ARKASI (3).JPG",
+    "category": null,
+    "lat": 41.0059,
+    "lng": 28.9518,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Sisli Metro Platform Haciosman Direction",
+    "id": 1246,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279872967-RAY ARKASI HACIOSMAN YÖNÜ (2).jpeg",
+    "category": "Subway",
+    "lat": 41.065,
+    "lng": 28.9935,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Sisli Metro Platform Yenikapi Direction",
+    "id": 1245,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279859086-RAY ARKASI HACIOSMAN YÖNÜ (2).jpeg",
+    "category": "Subway",
+    "lat": 41.0651,
+    "lng": 28.9936,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "ITU Metro Platform Haciosman Direction",
+    "id": 1244,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279836604-İTÜ RAY ARKASI  (8).JPG",
+    "category": "Subway",
+    "lat": 41.1083,
+    "lng": 29.0209,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Gayrettepe Metro Platform Hacıosman Direction",
+    "id": 1241,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279728646-RAY ARKASI HACIOSMAN YÖNÜ (2).jpeg",
+    "category": "Subway",
+    "lat": 41.0688,
+    "lng": 29.0105,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "ITU Metro Platform Yenikapi Direction",
+    "id": 1243,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279814321-İTÜ RAY ARKASI  (2).JPG",
+    "category": "Subway Train",
+    "lat": 41.1081,
+    "lng": 29.0207,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Levent Metro Platform Yenikapi Direction",
+    "id": 1242,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1707130876091-GAYRETTEPE (8).JPG",
+    "category": "Subway",
+    "lat": 41.0759,
+    "lng": 29.015,
+    "resolution": {
+      "width": 2432,
+      "height": 832
+    }
+  },
+  {
+    "name": "Antalya Corendon Park Stadium",
+    "id": 1159,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272483212-DSC05316.JPG",
+    "category": null,
+    "lat": 36.88571,
+    "lng": 30.66514,
+    "resolution": {
+      "width": 960,
+      "height": 672
+    }
+  },
+  {
+    "name": "Izmir Point AVM 800x352 (ID: 68)",
+    "id": 1165,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1165/1722937517075-Akbank Juzdan - İzmir Led Ekranlar (2) copy.jpg",
+    "category": "Mall",
+    "lat": 38.4307436,
+    "lng": 27.2120082,
+    "resolution": {
+      "width": 800,
+      "height": 352
+    }
+  },
+  {
+    "name": "Izmir Palmiye AVM 288x256 (ID: 51)",
+    "id": 1164,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704360196589-20220613_103733.jpg",
+    "category": "Mall",
+    "lat": 38.3943,
+    "lng": 27.0506,
+    "resolution": {
+      "width": 288,
+      "height": 256
+    }
+  },
+  {
+    "name": "Izmir Istinye Park 865x416 (ID: 46)",
+    "id": 1163,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704360061189-20220613_103211.jpg",
+    "category": "Mall",
+    "lat": 38.4702,
+    "lng": 27.0748,
+    "resolution": {
+      "width": 864,
+      "height": 416
+    }
+  },
+  {
+    "name": "Fenerbahçe Şükrü Saracoglu Stadium Bridge Direction",
+    "id": 1139,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272301748-Fenerbahçe_Şükrü_Saracoğlu_Stadı_1 (2).jpg",
+    "category": "Billboards",
+    "lat": 40.987359,
+    "lng": 29.038059,
+    "resolution": {
+      "width": 1240,
+      "height": 920
+    }
+  },
+  {
+    "name": "Izmir Total Inciralti 624x336 (ID: 91)",
+    "id": 1142,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704360292216-20220613_110054.jpg",
+    "category": "Billboards",
+    "lat": 38.3927,
+    "lng": 27.023,
+    "resolution": {
+      "width": 624,
+      "height": 336
+    }
+  },
+  {
+    "name": "Fenerbahçe Şükrü Saracoglu Stadium Kiziltoprak Direction",
+    "id": 1138,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272323377-Fenerbahçe_Şükrü_Saracoğlu_Stadı_2 (1).jpg",
+    "category": "Billboards",
+    "lat": 40.988712,
+    "lng": 29.037218,
+    "resolution": {
+      "width": 1240,
+      "height": 920
+    }
+  },
+  {
+    "name": "Istanbul Unalan Metro Akasya Koridoru Giris (9 screens)",
+    "id": 1140,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277171442-ON TV DİJİTAL PORTRE PANO (26).JPG",
+    "category": null,
+    "lat": 40.9973579,
+    "lng": 29.0602342,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Unalan Metro Akasya Koridoru Cikis (9 screens)",
+    "id": 1141,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277150489-ON TV DİJİTAL PORTRE PANO (24).JPG",
+    "category": null,
+    "lat": 40.9973579,
+    "lng": 29.0602342,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Ayrilik Çesmesi Bati Arakat Entrance (8 screens)",
+    "id": 1102,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278673172-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0003803,
+    "lng": 29.0300769,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Ayrilik Çesmesi Bati Arakat Exit (8 screens)",
+    "id": 1103,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278689993-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0003803,
+    "lng": 29.0300769,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Nisantasi Digital Billboard",
+    "id": 1056,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272226048-Nisantasi-billboard.JPG",
+    "category": null,
+    "lat": 41.042537,
+    "lng": 29.00002,
+    "resolution": {
+      "width": 1248,
+      "height": 936
+    }
+  },
+  {
+    "name": "1 Levent Digital Billboard",
+    "id": 1055,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272137750-IMG_5386 (1).JPG",
+    "category": "Billboards",
+    "lat": 41.076315,
+    "lng": 29.016834,
+    "resolution": {
+      "width": 1248,
+      "height": 936
+    }
+  },
+  {
+    "name": "Istanbul Osmanbey Metro Rumeli Exit (12 screens)",
+    "id": 963,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277914298-Sisli metro ornek (1).JPG",
+    "category": null,
+    "lat": 41.0539931,
+    "lng": 28.9872616,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Osmanbey Metro Rumeli Entrance (12 screens)",
+    "id": 962,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277928778-Sisli metro ornek (1).JPG",
+    "category": null,
+    "lat": 41.0539931,
+    "lng": 28.9872616,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Osmanbey Metro Pangalti Entrance (21 screens)",
+    "id": 961,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277947613-Sisli metro ornek (1).JPG",
+    "category": null,
+    "lat": 41.0531856,
+    "lng": 28.9865519,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Taksim Metro Amirlik Entrance (9 screens)",
+    "id": 958,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278063944-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.0531856,
+    "lng": 28.9858915,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Osmanbey Metro Pangalti Exit (21 screens)",
+    "id": 959,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277966201-Sisli metro ornek (1).JPG",
+    "category": null,
+    "lat": 41.0531856,
+    "lng": 28.9865519,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Taksim Metro Amirlik Exit (9 screens)",
+    "id": 960,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278089401-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.0379784,
+    "lng": 28.9858915,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Taksim Metro Square Exit (9 screens)",
+    "id": 957,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278006685-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.037355,
+    "lng": 28.9858325,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Mecidiyekoy Turnike Ici Kısa Koridor Inis (12 screens)",
+    "id": 946,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277825194-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Mecidiyekoy Turnike Ici Kısa Koridor Cikis (12 screens)",
+    "id": 947,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277886832-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Yenikapi Metro Havalimanı Inis (6 screens)",
+    "id": 948,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278242523-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.0012515,
+    "lng": 28.946038,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Yenikapi Metro Havalimani Cikis (6 screens)",
+    "id": 949,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278209588-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.0012515,
+    "lng": 28.946038,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Taksim Metro Square Entrance (9 screens)",
+    "id": 956,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278041533-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.037355,
+    "lng": 28.9858325,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Kabatas Funicular Metro Entrance (6 screens)",
+    "id": 954,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278148446-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0340216,
+    "lng": 28.9900161,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul ITU Metro Exit (12 screens)",
+    "id": 953,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278301703-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.1081,
+    "lng": 29.02131,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul ITU Metro Entrance (12 screens)",
+    "id": 952,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278322141-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.1081,
+    "lng": 29.02131,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Yenikapi Metro Kirazli Cikis (6 screens)",
+    "id": 951,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278175466-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.0012515,
+    "lng": 28.946038,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Yenikapi Metro Kirazli Inis (6 screens)",
+    "id": 950,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278267054-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": null,
+    "lat": 41.0012515,
+    "lng": 28.946038,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Kabatas Funicular Metro Exit (6 screens)",
+    "id": 955,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278122138-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0340216,
+    "lng": 28.9900161,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Turnike Ici Uzun Koridor Cikis (12 screens)",
+    "id": 945,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277783712-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Cevahir AVM Cikis",
+    "id": 941,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277684764-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Cevahir AVM Inis",
+    "id": 940,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277706488-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Turnike Ici Kısa Koridor Inis (12 screens)",
+    "id": 942,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277655174-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Turnike Ici Kısa Koridor Cikis (12 screens)",
+    "id": 943,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277630290-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Istanbul Sisli Metro Turnike Ici Uzun Koridor Inis (12 screens)",
+    "id": 944,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277756477-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.0644933,
+    "lng": 28.9915189,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "4 Levent Metro - Celiktepe Inis (12 screens)",
+    "id": 858,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277316087-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.085858,
+    "lng": 29.0070364,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Gayrettepe Metro Platform Yenikapi Direction",
+    "id": 855,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704279739083-RAY ARKASI YENİKAPI YÖNÜ (2).jpg",
+    "category": null,
+    "lat": 41.0736319,
+    "lng": 28.9919724,
+    "resolution": {
+      "width": 1536,
+      "height": 512
+    }
+  },
+  {
+    "name": "Levent Metro Gultepe Entrance (6 screens)",
+    "id": 854,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277519240-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": "Subway",
+    "lat": 41.077962,
+    "lng": 29.01311,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "4 Levent Metro - Emniyetevler Cikis (9 screens)",
+    "id": 861,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277389283-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.085858,
+    "lng": 29.0070364,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Metroport",
+    "id": 856,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278359698-Metroport.jpg",
+    "category": "Spectacular",
+    "lat": 40.995248,
+    "lng": 28.862423,
+    "resolution": {
+      "width": 1584,
+      "height": 960
+    }
+  },
+  {
+    "name": "4 Levent Metro - Celiktepe Cikis (12 screens)",
+    "id": 859,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277339151-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.085858,
+    "lng": 29.0070364,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Bostanci Istanbul Metro Entrance (10 screens)",
+    "id": 852,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704285878607-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 40.9647797,
+    "lng": 29.1046153,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "4 Levent Metro - Emniyetevler Inis (9 screens)",
+    "id": 860,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277364811-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 41.085858,
+    "lng": 29.0070364,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Bostanci Istanbul Metro Exit (10 screens)",
+    "id": 853,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704285910008-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 40.990654,
+    "lng": 29.0198213,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Kadikoy Metro Amirlik Exit (15 screens)",
+    "id": 813,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278429406-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 40.990654,
+    "lng": 29.0198213,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Kadikoy Metro Amirlik Entrance (15 screens)",
+    "id": 812,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704278460305-Istanbul Metro Merdiven Ornek.JPG",
+    "category": null,
+    "lat": 40.990654,
+    "lng": 29.0198213,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Izmir Buca Belediyesi 384x288 (ID: 71)",
+    "id": 796,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359840437-20220613_120117.jpg",
+    "category": "Billboards",
+    "lat": 38.3901,
+    "lng": 27.1639,
+    "resolution": {
+      "width": 384,
+      "height": 288
+    }
+  },
+  {
+    "name": "Gayrettepe Metro Esentepe-Denizbank Onu Cikis (12 screens)",
+    "id": 811,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276986912-ON TV DİJİTAL PORTRE PANO (17).JPG",
+    "category": null,
+    "lat": 41.0736319,
+    "lng": 28.9919724,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Levent Metro Carsi Entrance (6 screens)",
+    "id": 806,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277463040-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": "Subway",
+    "lat": 41.075743,
+    "lng": 29.014943,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Levent Metro Gultepe Exit (6 screens)",
+    "id": 805,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277439046-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": "Subway",
+    "lat": 41.077962,
+    "lng": 29.01311,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Gayrettepe Metro Zorlu Center-Metrobus Baglanti Exit (12 screens)",
+    "id": 809,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277073418-ON TV DİJİTAL PORTRE PANO (16).jpeg",
+    "category": "Subway",
+    "lat": 41.0736319,
+    "lng": 28.9919724,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Gayrettepe Metro Esentepe-Denizbank Onu Giris (12 screens)",
+    "id": 810,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704276958599-ON TV DİJİTAL PORTRE PANO (11).jpeg",
+    "category": null,
+    "lat": 41.0736319,
+    "lng": 28.9919724,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Gayrettepe Metro Zorlu Center-Metrobus Baglanti Entrance (12 screens)",
+    "id": 808,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277061204-ON TV DİJİTAL PORTRE PANO (14).jpg",
+    "category": "Subway",
+    "lat": 41.0736319,
+    "lng": 28.9919724,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Levent Metro Carsi Exit (6 screens)",
+    "id": 807,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704277484480-ON TV DİJİTAL PORTRE PANO (10).JPG",
+    "category": "Subway",
+    "lat": 41.075743,
+    "lng": 29.014943,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Izmir Forum Bornova 384x288 (ID: 50)",
+    "id": 798,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359984291-20220713_094712.jpg",
+    "category": "Mall",
+    "lat": 38.4492,
+    "lng": 27.2127,
+    "resolution": {
+      "width": 384,
+      "height": 288
+    }
+  },
+  {
+    "name": "Izmir Selway Outlet 384x288 (ID: 69)",
+    "id": 797,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359952185-20220713_102028.jpg",
+    "category": "Mall",
+    "lat": 38.3775,
+    "lng": 27.0725,
+    "resolution": {
+      "width": 384,
+      "height": 288
+    }
+  },
+  {
+    "name": "Izmir Balcova Cinaralti 480x480 (ID: 74)",
+    "id": 795,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359822158-20220613_105346.jpg",
+    "category": null,
+    "lat": 38.3943,
+    "lng": 27.0377,
+    "resolution": {
+      "width": 480,
+      "height": 480
+    }
+  },
+  {
+    "name": "Dalaman Airport International Terminal (25 screens) 1080x1920",
+    "id": 787,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704274308512-IMG_3694.JPG",
+    "category": "Shopping Area",
+    "lat": 36.7163073,
+    "lng": 28.7886823,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Dalaman Airport Arrivals Baggage Belt (16 screens, domestic and international)",
+    "id": 788,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704274333182-IMG_3618.JPG",
+    "category": "Baggage Claim",
+    "lat": 36.7163073,
+    "lng": 28.7886823,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "name": "Dalaman Airport General Area (25 screens) 1080x1920",
+    "id": 793,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273627222-Dalaman Genel 3.jpg",
+    "category": "Departures Hall",
+    "lat": 36.7163073,
+    "lng": 28.7886823,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Dalaman Airport Domestic Terminal (25 screens) 1080x1920",
+    "id": 786,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273878641-İng 6.jpg",
+    "category": "Gates",
+    "lat": 36.7163073,
+    "lng": 28.7886823,
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "name": "Izmir Bornova Bayrakli Kavsagi Sanayi 384x256 (ID: 73)",
+    "id": 705,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359752500-20220713_092901.jpg",
+    "category": "Billboards",
+    "lat": 38.4478,
+    "lng": 27.1815,
+    "resolution": {
+      "width": 384,
+      "height": 256
+    }
+  },
+  {
+    "name": "Izmir Bayrakli Adliye 480x288 (ID: 53)",
+    "id": 704,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359720344-20220613_094044.jpg",
+    "category": "Billboards",
+    "lat": 38.4548,
+    "lng": 27.1891,
+    "resolution": {
+      "width": 480,
+      "height": 288
+    }
+  },
+  {
+    "name": "Izmir Cigli Kipa 576x384 (ID: 49)",
+    "id": 703,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359669947-20220713_132307.jpg",
+    "category": "Mall",
+    "lat": 38.4808,
+    "lng": 27.0569,
+    "resolution": {
+      "width": 576,
+      "height": 384
+    }
+  },
+  {
+    "name": "Izmir Ege Park Balcova 576x368 (ID: 70)",
+    "id": 702,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359589792-20220613_113911.jpg",
+    "category": "Mall",
+    "lat": 38.3944,
+    "lng": 27.0447,
+    "resolution": {
+      "width": 576,
+      "height": 368
+    }
+  },
+  {
+    "name": "Izmir Karsiyaka Merkez, Ataturk Bulvari 480x480 (ID: 72)",
+    "id": 701,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704359548400-20220613_090746.jpg",
+    "category": "Billboards",
+    "lat": 38.4619,
+    "lng": 27.115,
+    "resolution": {
+      "width": 480,
+      "height": 480
+    }
+  },
+  {
+    "name": "Trump Towers Digital Billboard",
+    "id": 694,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272909622-Trump Towers Real-time Temperature (2).jpeg",
+    "category": "Spectacular",
+    "lat": 41.067529,
+    "lng": 28.9916878,
+    "resolution": {
+      "width": 1344,
+      "height": 416
+    }
+  },
+  {
+    "name": "Sapphire Digital Billboard",
+    "id": 693,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272949907-Niacinamide (4).JPG",
+    "category": "Spectacular",
+    "lat": 41.085032,
+    "lng": 29.0064048,
+    "resolution": {
+      "width": 6912,
+      "height": 1008
+    }
+  },
+  {
+    "name": "Tepe Nautilus Digital Billboard",
+    "id": 695,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704273084404-ING (1).JPG",
+    "category": "Spectacular",
+    "lat": 41.0001231,
+    "lng": 29.0305288,
+    "resolution": {
+      "width": 586,
+      "height": 310
+    }
+  },
+  {
+    "name": "Galleria Digital Billboard",
+    "id": 1,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272570814-IMG_7402.JPG",
+    "category": "Billboards",
+    "lat": 40.9750432,
+    "lng": 28.8701637,
+    "resolution": {
+      "width": 1416,
+      "height": 648
+    }
+  },
+  {
+    "name": "Akmerkez Digital Billboard",
+    "id": 2,
+    "imageUrl": "https://cdn.awarion.com/newjunction/production/documents/screen-images/1704272036752-IMG_4170.JPG",
+    "category": null,
+    "lat": 41.0772,
+    "lng": 29.02557,
+    "resolution": {
+      "width": 960,
+      "height": 2016
+    }
+  }
+]

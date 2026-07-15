@@ -1,0 +1,220 @@
+.gradient-yellow-right {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+
+.gradient-yellow-right::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 80%;
+  height: 100%;
+  background-image: url("/awarion-preview/svg/gradient-svg/right-top.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top right;
+  z-index: -1;
+  pointer-events: none;
+  /* animation: floatGradient 8s ease-in-out infinite; */
+}
+
+@media (max-width: 1024px) {
+  .gradient-yellow-right::before {
+    width: 60%;
+  }
+}
+
+@media (max-width: 740px) {
+  .gradient-yellow-right::before {
+    width: 0%;
+  }
+}
+
+/* Modified floating animation to avoid horizontal movement */
+@keyframes floatGradient {
+  0% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-20px) scale(1.02);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+  }
+}
+
+.gradient-left-top {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.gradient-left-top::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 100%;
+  background-image: url("/awarion-preview/svg/gradient-svg/left-top.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top left;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Middle left gradient */
+.gradient-left-middle {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.gradient-left-middle::before {
+  content: "";
+  position: absolute;
+  top: 25%;
+  left: -120px;
+  width: 50%;
+  height: 100%;
+  background-image: url("/awarion-preview/svg/gradient-svg/left-middle.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top left;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Bottom gradient */
+.gradient-bottom {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+
+.gradient-bottom::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: -10%;
+  width: 50%;
+  height: 100%;
+  background-image: url("/awarion-preview/svg/gradient-svg/bottom.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom center;
+  z-index: -1;
+  pointer-events: none;
+}
+
+@media (max-width: 1024px) {
+  .gradient-bottom::before {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .gradient-bottom::before {
+    width: 0;
+  }
+}
+
+.gradient-left-footer {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+
+.gradient-left-footer::before {
+  content: "";
+  position: absolute;
+  top: 5%;
+  left: 0;
+  bottom: 20%;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url("/awarion-preview/svg/gradient-svg/left-footer.svg");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: contain;
+  pointer-events: none;
+  animation: floatingGradient 8s ease-in-out infinite;
+}
+
+/* Updated media queries */
+
+@media (max-width: 768px) {
+  .gradient-left-footer::before {
+    width: 45%;
+    height: 50%;
+    top: -50%; /* Maintaining original position */
+  }
+}
+
+@media (max-width: 425px) {
+  .gradient-left-footer::before {
+    width: 50%;
+    height: 50%;
+    top: 5%; /* Maintaining original position */
+  }
+}
+
+.gradient-small-right-top {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+
+.gradient-small-right-top::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 50%;
+  background-image: url("/awarion-preview/svg/gradient-svg/small-right-top.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top right;
+  z-index: -1;
+  pointer-events: none;
+  animation: floatGradient 8s ease-in-out infinite;
+}
+
+/* Add new small right middle gradient */
+.gradient-small-right-middle {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+
+.gradient-small-right-middle::before {
+  content: "";
+  position: absolute;
+  top: 0%;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  background-image: url("/awarion-preview/svg/gradient-svg/small-right-middle.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center right;
+  z-index: -1;
+  pointer-events: none;
+  animation: floatGradient 8s ease-in-out infinite;
+}
