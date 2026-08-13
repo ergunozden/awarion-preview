@@ -1,0 +1,16 @@
+# Cloudflare Pages redirects (copied to the build root by Hugo's static mount).
+# Format: <from> <to> <status>
+
+# Retired root-level research post -> the product page that replaced it.
+# Two blog posts still link to the old URL, and it is also linked externally.
+/awarion-publishes-research-on-dynamic-creative-in-dooh-results-massively-in-favour-of-data-driven-campaigns/ /data-driven-creatives/ 301
+/awarion-publishes-research-on-dynamic-creative-in-dooh-results-massively-in-favour-of-data-driven-campaigns /data-driven-creatives/ 301
+
+# Redesign v1 slug renames (Alp-approved 2026-07): server-side 301s.
+# Hugo aliases still emit meta-refresh pages as a fallback for other hosts.
+/place-of-advertisers/ /advertisers/ 301
+/place-of-advertisers /advertisers/ 301
+/next-paradigm/ /media-owners/ 301
+/next-paradigm /media-owners/ 301
+/data-driven-campaigns/ /data-driven-creatives/ 301
+/data-driven-campaigns /data-driven-creatives/ 301

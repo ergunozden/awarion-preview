@@ -388,3 +388,93 @@ html {
     font-size: 2rem;
   }
 }
+
+/* ---- FAQ accordion (partial: layouts/partials/common/faq.html) ----
+   Hand-written here (not Tailwind) so it ships without a tailwind.css rebuild.
+   Desktop is a two-column layout: heading left, accordion right. */
+.faq-eyebrow {
+  color: #ffff00;
+  font-weight: 600;
+  font-size: 0.8125rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 0.85rem;
+}
+.faq-title {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+.faq-subtitle {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.faq-intro-col {
+  margin-bottom: 2.5rem;
+}
+.faq-question {
+  font-weight: 600;
+  font-size: 1.125rem;
+  line-height: 1.4;
+}
+.faq-answer {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+.faq-icon {
+  background-color: rgba(255, 255, 0, 0.15);
+  color: #ffff00;
+}
+/* Accordion open/close animation */
+.faq-body {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 300ms ease-in-out;
+}
+.faq-body.faq-body--open {
+  grid-template-rows: 1fr;
+}
+.faq-body__inner {
+  overflow: hidden;
+}
+.faq-plus,
+.faq-minus {
+  margin-bottom: 5px;
+}
+@media (min-width: 1440px) {
+  .faq-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: start;
+  }
+  .faq-intro-col {
+    margin-bottom: 0;
+  }
+  .faq-title {
+    font-size: 2.75rem;
+  }
+  .faq-subtitle {
+    font-size: 1.0625rem;
+  }
+  .faq-question {
+    font-size: 1.25rem;
+  }
+  .faq-answer {
+    font-size: 1rem;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .faq-body {
+    transition: none;
+  }
+}
+
+/* Underline in-body links for accessibility (link-in-text-block).
+   .text-blue-600 is used only for legal-page (privacy/KVKK) content links. */
+.text-blue-600 {
+  text-decoration: underline;
+}

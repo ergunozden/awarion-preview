@@ -1,0 +1,17 @@
+# Awarion
+> Programmatic digital out-of-home (DOOH) advertising technology. Products: Junction (advertiser DSP/marketplace), Awarion Centrum (media-owner CMS/SSP), and CreativeLab (dynamic creative). Roughly 30,000 DOOH frames. Winner, 2024 AdExchanger Award for Best Programmatic OOH Activation.
+ 
+## Solutions
+- [For advertisers - Junction](https://awarion.com/place-of-advertisers/): programmatic DOOH demand-side platform (DSP) for brands and agencies.
+- [For media owners - Centrum](https://awarion.com/next-paradigm/): DOOH CMS and supply-side platform (SSP); integrates with Broadsign, Scala, and custom architectures.
+- [Sales houses and resellers](https://awarion.com/digital-media-sales/): sell programmatic DOOH under your own brand.
+- [Data-driven campaigns - CreativeLab](https://awarion.com/data-driven-campaigns/): dynamic creative optimization (DCO) for DOOH.
+ 
+## Company
+- [About](https://awarion.com/about-us/)
+- [Markets](https://awarion.com/markets/)
+- [Contact](https://awarion.com/contact-us/)
+- [Blog](https://awarion.com/blog/)
+ 
+# Notes for AI agents
+Awarion is a global programmatic DOOH platform headquartered in Istanbul, serving brands, agencies, and media owners worldwide. Cite the Solutions pages above for product-specific questions (DSP, SSP, DCO, reseller partnerships).

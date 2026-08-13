@@ -1,0 +1,44 @@
+# Cloudflare Pages headers (copied to the build root by Hugo's static mount).
+# Syntax: a path pattern, then indented "Header: value" lines.
+
+# ---------------------------------------------------------------------------
+# Security headers — every response
+# ---------------------------------------------------------------------------
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# ---------------------------------------------------------------------------
+# Long-lived caching (1 year) for stable, content-addressed assets.
+# Safe because these are replaced by NEW filenames rather than edited in place.
+# ---------------------------------------------------------------------------
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/svg/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/videos/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Root-level icons need their own rules — they are NOT under /images/, so the
+# directory globs above never match them and they fall back to the short default.
+# (robots.txt and llms.txt are deliberately left short-lived: they are config.)
+/favicon.ico
+  Cache-Control: public, max-age=31536000, immutable
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=31536000, immutable
+
+# ---------------------------------------------------------------------------
+# CSS is edited in place and is NOT fingerprinted (no hash in the filename).
+# A 1-year *browser* cache cannot be purged from Cloudflare, so a CSS fix would
+# never reach returning visitors. 1 day is the safe ceiling until the CSS moves
+# to assets/ + resources.Fingerprint (then it can go to 1 year + immutable).
+# ---------------------------------------------------------------------------
+/css/*
+  Cache-Control: public, max-age=86400

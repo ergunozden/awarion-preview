@@ -1,0 +1,45 @@
+{
+  "$schema": "https://adcontextprotocol.org/schemas/latest/brand.json",
+  "version": "1.0",
+  "house": {
+    "domain": "awarion.com",
+    "name": "Awarion",
+    "architecture": "house_of_brands"
+  },
+  "brands": [
+    {
+      "id": "awarion",
+      "names": [
+        {
+          "en": "Awarion"
+        }
+      ],
+      "keller_type": "master",
+      "description": "Technology for data-driven, targeted and creative DOOH campaigns supercharged by dynamic creative, including DSP and SSP for programmatic advertising and a DOOH media owner focused CMS.",
+      "industry": "Technology",
+      "target_audience": "DOOH, advertising and media agency professionals",
+      "tagline": "We believe in extraordinary",
+      "privacy_policy_url": "https://awarion.com/privacy-policy/",
+      "tone": {
+        "voice": "Cool authority"
+      },
+      "logos": [
+        {
+          "url": "https://awarion.com/blog/content/images/2026/06/awarion2-HQ.png"
+        }
+      ],
+      "colors": {
+        "primary": "#2d3d59",
+        "secondary": "#efb82c"
+      },
+      "properties": [
+        {
+          "type": "website",
+          "identifier": "awarion.com",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-20T09:09:21Z"
+}

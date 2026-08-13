@@ -1,6 +1,7 @@
+
 # robots.txt for awarion.com
 # Programmatic DOOH advertising technology
-# Last updated: 2026-04-13
+# Last updated: 2026-05-05
 
 User-agent: *
 Allow: /
@@ -19,7 +20,7 @@ Disallow: /*?*utm_
 Disallow: /*?*fbclid
 Disallow: /*?*gclid
 
-# Allow major AI crawlers explicitly (AEO strategy — surface in AI answers)
+# Allow major AI crawlers explicitly (AEO strategy)
 User-agent: GPTBot
 Allow: /
 
@@ -43,3 +44,4 @@ Allow: /
 
 # Sitemap
 Sitemap: https://awarion.com/sitemap.xml
+Sitemap: https://awarion.com/blog/sitemap.xml
